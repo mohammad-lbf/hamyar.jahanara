@@ -3,7 +3,7 @@ import Link from 'next/link';
 
 const Card = ({name , creator , caption, slug , image , fileType}) => {
     return (
-            <div style={{width:"280px" , position:"relative" , height:"390px" , overflow:"hidden"}} className='lbf-card border-gray-800 bg-gray-850 mb-3'>
+            <div style={{width:"280px" , position:"relative" , height:"390px" , overflow:"hidden"}} className='lbf-card border-gray-800 bg-white mb-3'>
             <div className='lbf-card-image-article text-center'>
                 <Image
                 style={{width:"80px" , height:"120px"}}
