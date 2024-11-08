@@ -1,0 +1,147 @@
+const data = [
+    {
+        id:30011,
+        name:"آزمون مستمر مهر ماه علوم سوم",
+        caption:"آزمون مستمر علوم تجربی پایه سوم، از درس 1، مهر ماه",
+        creator:"محمد لبافی",
+        upoledDate:"1403/07/26",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/101.pdf",
+        book:"oloom",
+        boolInP:"علوم تجربی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/oloom.jpg",
+        slug: "/sevom/soalat/30011"
+    } , 
+    {
+        id:30012,
+        name:"آزمونک ریاضی سوم ابتدائی | فصل 1: الگوها",
+        caption:"آزمونک شامل 9 سوال در 2 صفحه، در سطح آسان ویژه ی ارزشیابی توصیفی با جدول عملکرد اهداف",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/15",
+        fileType:"WORD",
+        src:"/Files/sevom/soalat/102.docx",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/riazi.jpg",
+        slug: "/sevom/soalat/30012"
+    } ,
+    {
+        id:30013,
+        name:"پرسش و پاسخ درس ۴-۵-۶ علوم سوم",
+        caption:"سوالات پرسش و پاسخ درس ۴-۵-۶ علوم سوم به همراه جواب",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/15",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/103.pdf",
+        book:"oloom",
+        boolInP:"علوم تجربی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/oloom.jpg",
+        slug: "/sevom/soalat/30013"
+    } ,
+    {
+        id:30014,
+        name:"تمرین جدول ضرب",
+        caption:"تمرین جدول ضرب - ریاضی پایه سوم",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/16",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/104.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/riazi.jpg",
+        slug: "/sevom/soalat/30014"
+    } ,
+    {
+        id:30015,
+        name:"آزمون شماره 1 جدول ضرب",
+        caption:"آزمون شماره 1 جدول ضرب - ریاضی پایه سوم",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/16",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/105.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/riazi.jpg",
+        slug: "/sevom/soalat/30015"
+    } ,
+    {
+        id:30016,
+        name:"آزمون شماره 2 جدول ضرب",
+        caption:"آزمون شماره 2 جدول ضرب - ریاضی پایه سوم",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/16",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/106.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/riazi.jpg",
+        slug: "/sevom/soalat/30016"
+    } ,
+    
+        {
+            id:30017,
+            name:"کلیه سوالات کتاب علوم سوم",
+            caption:"کلیه سوالات کتاب علوم درس به درس با جواب",
+            creator:"محمد لبافی",
+            upoledDate:"1403/08/16",
+            fileType:"PDF",
+            src:"/Files/sevom/soalat/107.pdf",
+            book:"oloom",
+            boolInP:"علوم",
+            gradeInP:"پایه سوم",
+            image:"/images/components/modules/books/sevom/oloom.jpg",
+            slug: "/sevom/soalat/30017"
+        } ,
+        {
+            id:30018,
+            name:"کاربرگ خلاق مخالف و هم خانواده درس سوم فارسی",
+            caption:"کاربرگ خلاق مخالف و هم خانواده درس سوم فارسی - پایه سوم",
+            creator:"محمد لبافی",
+            upoledDate:"1403/08/16",
+            fileType:"JPG",
+            src:"/Files/sevom/soalat/108.jpeg",
+            book:"farsi",
+            boolInP:"فارسی",
+            gradeInP:"پایه سوم",
+            image:"/images/components/modules/books/sevom/farsi.jpg",
+            slug: "/sevom/soalat/30018"
+        } ,
+        {
+            id:30019,
+            name:"کاربرگ خلاق مترادف درس سوم فارسی",
+            caption:"کاربرگ خلاق مترادف درس سوم فارسی - پایه سوم",
+            creator:"محمد لبافی",
+            upoledDate:"1403/08/16",
+            fileType:"JPG",
+            src:"/Files/sevom/soalat/109.jpg",
+            book:"farsi",
+            boolInP:"فارسی",
+            gradeInP:"پایه سوم",
+            image:"/images/components/modules/books/sevom/farsi.jpg",
+            slug: "/sevom/soalat/30019"
+        } ,
+        {
+            id:30020,
+            name:"5 سری نمونه سوال استاندارد آزمون نوبت اول مطالعات اجتماعی سوم دبستان",
+            caption:"5 نمونه سوال امتحان ترم اول مطالعات اجتماعی سوم دبستان شامل انواع سوالات + پاسخ تشریحی همه آزمون‌ها",
+            creator:"محمد لبافی",
+            upoledDate:"1403/08/16",
+            fileType:"WORD",
+            src:"/Files/sevom/soalat/110.docx",
+            book:"motaleat",
+            boolInP:"مطالعات اجتماعی",
+            gradeInP:"پایه سوم",
+            image:"/images/components/modules/books/sevom/motaleat.jpg",
+            slug: "/sevom/soalat/30020"
+        } 
+    
+
+]
+
+export default data
