@@ -1,6 +1,6 @@
 import React from 'react';
 import { useRouter } from 'next/router';
-import data from '@/DB/sevom/tarhedars';
+import data from '@/DB/sevom/soalat';
 import Image from 'next/image';
 import Link from 'next/link';
 import Card from '@/components/modules/Card';
@@ -26,8 +26,8 @@ const Page = () => {
                     سوم
                 </Link>
                 <i class="bi bi-chevron-left mx-2"></i>
-                <Link href={"/sevom/tarhedars"} style={{fontFamily:"KalamehWeb-Bold"}}>
-                    طرح درس
+                <Link href={"/sevom/soalat"} style={{fontFamily:"KalamehWeb-Bold"}}>
+                    نمونه سوالات
                 </Link>
                 </div>
             </div>
@@ -79,7 +79,7 @@ const Page = () => {
             <div className='container'>
                 <div style={{ paddingTop:"20px" , paddingBottom:"20px"}} className='mb-3 container bg-white rounded text-center shadow-sm border'>
                 <h2 style={{fontFamily:"KalamehWeb-Bold" , fontSize:"17px"}} className="text-center">
-                آخرین طرح درس های پایه سوم
+                آخرین نمونه سوالات پایه سوم
                 </h2>
                 </div>
                         <div className='row justify-content-center align-items-center'>
