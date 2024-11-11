@@ -4,7 +4,7 @@ import React from 'react';
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import Cookies from 'js-cookie';
-const Tarhedars = () => {
+const Books = () => {
     const router = useRouter();
   
   useEffect(() => {
@@ -70,4 +70,4 @@ const Tarhedars = () => {
     );
 };
 
-export default Tarhedars;
+export default Books;

@@ -139,7 +139,89 @@ const data = [
             gradeInP:"پایه سوم",
             image:"/images/components/modules/books/sevom/motaleat.jpg",
             slug: "/sevom/soalat/30020"
+        } ,        {
+            id:30021,
+            name:"آزمون عملکردی فصل 2 آموزش روخوانی قرآن کریم ",
+            caption:"آزمون عملکردی فصل 2 آموزش روخوانی قرآن کریم — سوم دبستان",
+            creator:"محمد لبافی",
+            upoledDate:"1403/08/21",
+            fileType:"PDF",
+            src:"/Files/sevom/soalat/آزمون-عملکردی-فصل-2-آموزش-روخوانی-قرآن-کریم-قرآن-(سری1)-سوم-دبستان.pdf",
+            book:"quran",
+            boolInP:"آموزش قرآن",
+            gradeInP:"پایه سوم",
+            image:"/images/components/modules/books/sevom/quran.jpg",
+            slug: "/sevom/soalat/30021"
         } 
+         , {
+        id:30022,
+        name:"آزمون عملکردی فصل 1 آموزش نماز",
+        caption:"آزمون عملکردی فصل 1 آموزش نماز - پایه سوم دبستان",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/21",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/آزمون-عملکردی-فصل-1-آموزش-نماز-قرآن-(سری1)-سوم-دبستان.pdf",
+        book:"quran",
+        boolInP:"قرآن",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/quran.jpg",
+        slug: "/sevom/soalat/30022"
+    }          , {
+        id:30023,
+        name:"نمونه سوال بخوانیم و بنویسیم درس 5 بلدرچین و برزگر",
+        caption:"نمونه سوال بخوانیم و بنویسیم درس 5 بلدرچین و برزگر فارسی - پایه سوم دبستان",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/21",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/نمونه-سوال-بخوانیم-و-بنویسیم-درس-5-بلدرچین-و-برزگر-فارسی-(سری1)-سوم-دبستان.pdf",
+        book:"farsi",
+        boolInP:"فارسی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/farsi.jpg",
+        slug: "/sevom/soalat/30023"
+    } 
+    , {
+        id:30024,
+        name:"نمونه سوال درس 4 هدیه های آسمان با پاسخ ",
+        caption:"نمونه سوال درس 4 هدیه های آسمان با پاسخ  - پایه سوم ابتدایی",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/21",
+        fileType:"WORD",
+        src:"https://biamoz.com/dl/3/Hedie/d4/%D9%86%D9%85%D9%88%D9%86%D9%87-%D8%B3%D9%88%D8%A7%D9%84-%D8%AF%D8%B1%D8%B3-4-%D9%87%D8%AF%DB%8C%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%A8%D8%A7-%D9%BE%D8%A7%D8%B3%D8%AE-%D8%B3%D9%88%D9%85-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C%DB%8C_Biamoz.com.pdf",
+        book:"hedye",
+        boolInP:"هدیه های آسمان",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/hedye.jpg",
+        slug: "/sevom/soalat/30024"
+    }    , {
+        id:30025,
+        name:"ارزشیابی مستمر درس 1-2-3 هدیه های آسمان",
+        caption:"ارزشیابی مستمر درس 1-2-3 هدیه های آسمان — سوم ابتدایی",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/21",
+        fileType:"PDF",
+        src:"https://biamoz.com/dl/3/Hedie/d3/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C-%D9%85%D8%B3%D8%AA%D9%85%D8%B1-%D8%AF%D8%B1%D8%B3-1-%D8%AA%D8%A7-3-%D9%87%D8%AF%DB%8C%D9%87-%D9%87%D8%A7%DB%8C-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%B3%D9%88%D9%85-%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C%DB%8C_Biamoz.com.pdf",
+        book:"hedye",
+        boolInP:"هدیه های آسمان",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/hedye.jpg",
+        slug: "/sevom/soalat/30025"
+    } 
+    // , {
+    //     id:30026,
+    //     name:"",
+    //     caption:"",
+    //     creator:"محمد لبافی",
+    //     upoledDate:"1403/08/21",
+    //     fileType:"",
+    //     src:"/Files/sevom/soalat/",
+    //     book:"",
+    //     boolInP:"",
+    //     gradeInP:"پایه سوم",
+    //     image:"/images/components/modules/books/sevom/.jpg",
+    //     slug: "/sevom/soalat/30026"
+    // } 
+
     
 
 ]

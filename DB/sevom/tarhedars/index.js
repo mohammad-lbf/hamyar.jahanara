@@ -73,7 +73,34 @@ const data = [
         gradeInP:"پایه سوم",
         image:"/images/components/modules/books/sevom/quran.jpg",
         slug: "/sevom/tarhedars/30025"
+    }    , {
+        id:30026,
+        name:"طرح درس 7 کار نیک فارسی",
+        caption:"طرح درس 7 کار نیک فارسی - سوم دبستان",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/21",
+        fileType:"PDF",
+        src:"/Files/sevom/tarhedars/",
+        book:"farsi",
+        boolInP:"فارسی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/farsi.jpg",
+        slug: "/sevom/tarhedars/30026"
     }
+    //  , {
+    //     id:30027,
+    //     name:"",
+    //     caption:"",
+    //     creator:"محمد لبافی",
+    //     upoledDate:"1403/08/21",
+    //     fileType:"",
+    //     src:"/Files/sevom/tarhedars/",
+    //     book:"",
+    //     boolInP:"",
+    //     gradeInP:"پایه سوم",
+    //     image:"/images/components/modules/books/sevom/.jpg",
+    //     slug: "/sevom/tarhedars/30027"
+    // } 
 ]
 
 export default data

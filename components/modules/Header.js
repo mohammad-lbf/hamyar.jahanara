@@ -75,7 +75,8 @@ const Header = () => {
                                             </li>
                                         </ul>
                                         </li>
-                                        <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/articles" ? "active" : "text-dark"}`} href={"/support"}>پشتیبانی</Link></li>
+                                        <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/support" ? "active" : "text-dark"}`} href={"/support"}>پشتیبانی</Link></li>
+                                        <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/about-developer" ? "active" : "text-dark"}`} href={"/about-developer"}>درباره توسعه دهنده</Link></li>
                                     
                                 </ul>
                             </nav>

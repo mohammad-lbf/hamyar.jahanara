@@ -3,7 +3,7 @@ import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import Cookies from 'js-cookie';
 import Image from "next/image";
-import { Inter } from "next/font/google";
+// import { Inter } from "next/font/google";
 import HomePage from "@/components/templates/HomePage";
 
 // const inter = Inter({ subsets: ["latin"] });

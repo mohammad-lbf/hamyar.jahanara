@@ -4,7 +4,7 @@ import React from 'react';
 
 const tarhedars = () => {
     return (
-        <div style={{minHeight:"100vh"}} className='page-padding-tops'>
+        <div style={{minHeight:"75vh"}} className='page-padding-tops'>
                 <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px"}} className='container bg-white rounded shadow border'>
                         <div className='d-flex flex-column justify-content-center align-items-center'>
                             <h3 className='mb-4' style={{fontSize:"30px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e" , lineHeight:"1.9rem"}}>پشتیبانی</h3>

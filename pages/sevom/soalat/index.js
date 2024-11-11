@@ -42,7 +42,7 @@ const Soalat = () => {
           <option value="riazi">ریاضی</option>
           <option value="oloom">علوم</option>
           <option value="farsi">فارسی</option>
-          <option value="negaresh">نگارش</option>
+          {/* <option value="negaresh">نگارش</option> */}
           <option value="hedye">هدیه های آسمان</option>
           <option value="motaleat">مطالعات اجتماعی</option>
         </select>

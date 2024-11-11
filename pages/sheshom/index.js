@@ -2,8 +2,21 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
+import { useEffect } from 'react';
+import { useRouter } from 'next/router';
+import Cookies from 'js-cookie';
 
-const sheshom = () => {
+
+const Sheshom = () => {
+    const router = useRouter();
+  
+    useEffect(() => {
+      const isAuthenticated = Cookies.get('auth');
+      if (isAuthenticated !== 'true') {
+        router.push('/login'); // هدایت به صفحه لاگین در صورت عدم احراز هویت
+      }
+    }, []);
+    
     return (
         <div style={{minHeight:"100vh"}} className='page-padding-tops'>
     <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px"}} className='container bg-white rounded shadow border'>
@@ -26,7 +39,7 @@ const sheshom = () => {
         <div className='container'>
                     <div className='row justify-content-center'>
             <div className='col-12 col-lg-6 col-xl-4 col-xxl-3 mb-4 mt-2 mb-lh-0'>
-                <Link href={"/sheshom/soalat"}>
+                <Link hrSf={"/sheshom/soalat"}>
                 <div className='hover-up-element d-flex align-items-center bg-white rounded border py-2 px-3'>
                     <Image style={{width:"60px" , height:"60px"}} width={512} height={512} src={"/images/components/modules/tests.png"} />
                     <span className='me-3' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}}>نمونه سوال</span>
@@ -64,4 +77,4 @@ const sheshom = () => {
     );
 };
 
-export default sheshom;
+export default Sheshom;

@@ -39,6 +39,9 @@ const Footer = () => {
                         <Link style={{fontFamily:"KalamehWeb-Medium"}}  className={`mx-2 mb-2 ${styles.scaleHover} pb-1`} href="/support">
                             پشتیبانی
                         </Link>
+                        <Link style={{fontFamily:"KalamehWeb-Medium"}}  className={`mx-2 mb-2 ${styles.scaleHover} pb-1`} href="/about-developer">
+                            درباره توسعه دهنده
+                        </Link>
                     </nav>
                 </div>
             </div>

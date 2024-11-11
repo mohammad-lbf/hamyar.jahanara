@@ -1,8 +1,20 @@
 import FirstBanner from '@/components/modules/sevom/FirstBanner';
 import ToolsMenu from '@/components/modules/sevom/ToolsMenu';
 import React from 'react';
+import { useEffect } from 'react';
+import { useRouter } from 'next/router';
+import Cookies from 'js-cookie';
 
-const sevom = () => {
+const Sevom = () => {
+    const router = useRouter();
+  
+    useEffect(() => {
+      const isAuthenticated = Cookies.get('auth');
+      if (isAuthenticated !== 'true') {
+        router.push('/login'); // هدایت به صفحه لاگین در صورت عدم احراز هویت
+      }
+    }, []);
+    
     return (
         <div style={{minHeight:"100vh"}} className='page-padding-tops'>
             <FirstBanner />
@@ -12,4 +24,4 @@ const sevom = () => {
     );
 };
 
-export default sevom;
+export default Sevom;
