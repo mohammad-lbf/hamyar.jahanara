@@ -2,8 +2,18 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-
-const chaharom = () => {
+import { useEffect } from 'react';
+import { useRouter } from 'next/router';
+import Cookies from 'js-cookie';
+const Chaharom = () => {
+    const router = useRouter();
+  
+  useEffect(() => {
+    const isAuthenticated = Cookies.get('auth');
+    if (isAuthenticated !== 'true') {
+      router.push('/login'); // هدایت به صفحه لاگین در صورت عدم احراز هویت
+    }
+  }, []);
     return (
         <div style={{minHeight:"100vh"}} className='page-padding-tops'>
     <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px"}} className='container bg-white rounded shadow border'>
@@ -64,4 +74,4 @@ const chaharom = () => {
     );
 };
 
-export default chaharom;
+export default Chaharom;
