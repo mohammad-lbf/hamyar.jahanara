@@ -6,8 +6,7 @@ import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import Cookies from 'js-cookie';
 
-
-const Sheshom = () => {
+const Panjom = () => {
     const router = useRouter();
   
     useEffect(() => {
@@ -16,7 +15,6 @@ const Sheshom = () => {
         router.push('/login'); // هدایت به صفحه لاگین در صورت عدم احراز هویت
       }
     }, []);
-    
     return (
         <div style={{minHeight:"100vh"}} className='page-padding-tops'>
     <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px"}} className='container bg-white rounded shadow border'>
@@ -27,19 +25,19 @@ const Sheshom = () => {
                 </h2>
                 <p
                 className='mt-3 mb-4 mb-lg-0 text-center text-lg-end' 
-                style={{fontSize:"15px" , fontFamily:"KalamehWeb-Medium" , color:"#000" , lineHeight:"1.6rem"}}>پایه ششم دبستان | سامانه همیار معلم دبستان جهان آرا</p>
+                style={{fontSize:"15px" , fontFamily:"KalamehWeb-Medium" , color:"#000" , lineHeight:"1.6rem"}}>پایه پنجم دبستان | سامانه همیار معلم دبستان جهان آرا</p>
             </div>
             <div className='col-12 col-lg-5 text-center text-lg-start'>
-                    <Image style={{width:"100px" , height:"100px"}} src={"/images/components/modules/number-6.png"} height={512} width={512} />
+                    <Image style={{width:"100px" , height:"100px"}} src={"/images/components/modules/number-5.png"} height={512} width={512} />
             </div>
     </div>
 </div>
 
-            <h3 style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}} className='mb-4 text-center mt-4 pt-4'>ابزار های سامانه | پایه ششم</h3>
+            <h3 style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}} className='mb-4 text-center mt-4 pt-4'>ابزار های سامانه | پایه پنجم</h3>
         <div className='container'>
                     <div className='row justify-content-center'>
             <div className='col-12 col-lg-6 col-xl-4 col-xxl-3 mb-4 mt-2 mb-lh-0'>
-                <Link hrSf={"/sheshom/soalat"}>
+                <Link href={"/sheshom/soalat"}>
                 <div className='hover-up-element d-flex align-items-center bg-white rounded border py-2 px-3'>
                     <Image style={{width:"60px" , height:"60px"}} width={512} height={512} src={"/images/components/modules/tests.png"} />
                     <span className='me-3' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}}>نمونه سوال</span>
@@ -77,4 +75,4 @@ const Sheshom = () => {
     );
 };
 
-export default Sheshom;
+export default Panjom;
