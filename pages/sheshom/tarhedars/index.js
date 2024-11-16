@@ -17,7 +17,7 @@ const Tarhedars = () => {
                     <div className='row align-items-center'>
                             <div className='col-12 col-lg-7'>
                                 <h2 className='text-center text-lg-end' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}}>
-                                    طرح درس های پایه سوم
+                                    طرح درس های پایه ششم
                                 </h2>
                             </div>
                             <div className='col-12 col-lg-5 text-center text-lg-start'>
