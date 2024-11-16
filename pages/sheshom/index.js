@@ -25,7 +25,7 @@ const Panjom = () => {
                 </h2>
                 <p
                 className='mt-3 mb-4 mb-lg-0 text-center text-lg-end' 
-                style={{fontSize:"15px" , fontFamily:"KalamehWeb-Medium" , color:"#000" , lineHeight:"1.6rem"}}>پایه پنجم دبستان | سامانه همیار معلم دبستان جهان آرا</p>
+                style={{fontSize:"15px" , fontFamily:"KalamehWeb-Medium" , color:"#000" , lineHeight:"1.6rem"}}>پایه ششم دبستان | سامانه همیار معلم دبستان جهان آرا</p>
             </div>
             <div className='col-12 col-lg-5 text-center text-lg-start'>
                     <Image style={{width:"100px" , height:"100px"}} src={"/images/components/modules/number-6.png"} height={512} width={512} />
