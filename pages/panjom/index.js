@@ -17,10 +17,10 @@ const Panjom = () => {
     }, []);
     return (
         <div style={{minHeight:"100vh"}} className='page-padding-tops'>
-    <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px"}} className='container bg-white rounded shadow border'>
+    <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px"  , boxShadow: "1px 3px 15px 2px #1d6600"}} className='container bg-white rounded'>
     <div className='row align-items-center'>
             <div className='col-12 col-lg-7'>
-                <h2 className='text-center text-lg-end' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}}>
+                <h2 className='text-center text-lg-end' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#1d6600"}}>
                     پایه پنجم دبستان
                 </h2>
                 <p

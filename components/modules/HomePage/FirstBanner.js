@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 const FirstBanner = () => {
 
   return (
-    <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px" , backgroundColor:"#059212"}} className='container rounded shadow border'>
+    <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px" , backgroundColor:"#059212"}} className='container rounded shadow'>
     <div className='row align-items-center'>
             <div className='col-12 col-lg-7'>
                 <h2 className='text-center text-lg-end lh-lg' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#f0f0f0"}}>

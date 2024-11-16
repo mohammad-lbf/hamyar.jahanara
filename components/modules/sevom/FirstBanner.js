@@ -5,10 +5,10 @@ import { motion } from 'framer-motion';
 const FirstBanner = () => {
 
   return (
-    <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px"}} className='container bg-white rounded shadow border'>
+    <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px" , backgroundColor:"#fff" , boxShadow: "1px 3px 15px 2px rgba(224,15,50,0.89)"}} className='container rounded'>
     <div className='row align-items-center'>
             <div className='col-12 col-lg-7'>
-                <h2 className='text-center text-lg-end' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}}>
+                <h2 className='text-center text-lg-end' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#e00f32"}}>
                     پایه سوم دبستان
                 </h2>
                 <p

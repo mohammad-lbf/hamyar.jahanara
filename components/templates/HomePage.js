@@ -13,7 +13,7 @@ const HomePage = () => {
                 <div className='row justify-content-center'>
 
                         <div className='mb-3 mt-4 pt-4'>
-                                <h3 style={{fontSize:"24px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}} className='mb-4 mt-3 border-top pt-2 text-center'>پایه های تحصیلی:</h3>
+                                <h3 style={{fontSize:"24px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}} className='mb-4 mt-3 pt-2 text-center'>پایه های تحصیلی:</h3>
                                 <BasesMenu />
                         </div>  
                 </div>

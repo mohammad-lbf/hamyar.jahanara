@@ -207,20 +207,62 @@ const data = [
         image:"/images/components/modules/books/sevom/hedye.jpg",
         slug: "/sevom/soalat/30025"
     } 
-    // , {
-    //     id:30026,
-    //     name:"",
-    //     caption:"",
-    //     creator:"محمد لبافی",
-    //     upoledDate:"1403/08/21",
-    //     fileType:"",
-    //     src:"/Files/sevom/soalat/",
-    //     book:"",
-    //     boolInP:"",
-    //     gradeInP:"پایه سوم",
-    //     image:"/images/components/modules/books/sevom/.jpg",
-    //     slug: "/sevom/soalat/30026"
-    // } 
+    , {
+        id:30026,
+        name:"ارزشیابی مستمر فصل یک ریاضی",
+        caption:"نمونه سوالات ارزشیابی مستمر فصل یک ریاضی - پایه سوم",
+        creator:"خانم فاطمه امراللهی",
+        upoledDate:"1403/08/25",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/فصل یک.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/riazi.jpg",
+        slug: "/sevom/soalat/30026"
+    } 
+    , {
+        id:30027,
+        name:"نمونه سوالات تبدیل واحد - فصل دوم ریاضی",
+        caption:"نمونه سوالات تبدیل واحد - فصل دوم ریاضی - پایه سوم",
+        creator:"خانم فاطمه امراللهی",
+        upoledDate:"1403/08/25",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/فصل دوم-تبدیل واحد.pdf", 
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/riazi.jpg",
+        slug: "/sevom/soalat/30027"
+    }
+    , {
+        id:30028,
+        name:"ارزشیابی مستمر فصل دوم ریاضی",
+        caption:"ارزشیابی مستمر فصل دوم ریاضی - پایه سوم",
+        creator:"خانم فاطمه امراللهی",
+        upoledDate:"1403/08/25",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/آزمون فصل دو.pdf", 
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/riazi.jpg",
+        slug: "/sevom/soalat/30028"
+    }  
+    , {
+        id:30029,
+        name:"نمونه سوالات ارزش پول - فصل دوم ریاضی",
+        caption:"نمونه سوالات ارزش پول - فصل دوم ریاضی  - پایه سوم",
+        creator:"خانم فاطمه امراللهی",
+        upoledDate:"1403/08/25",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/فصل دوم-ارزش پول.pdf", 
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/riazi.jpg",
+        slug: "/sevom/soalat/30029"
+    }  
 
     
 

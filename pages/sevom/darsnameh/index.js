@@ -4,7 +4,7 @@ import data from '@/DB/sevom/darsnameh';
 import Card from '@/components/modules/Card';
 import styles from '../../../styles/filterselect.module.css'
 const Darsnameh = () => {
-  const reverseData = data.reverse();
+        const reverseData = [...data].reverse();
   const [selectedOption, setSelectedOption] = useState('all');
   const reverseSelectedOption = data.filter(item => item.book == selectedOption).reverse();
     const handleChange = (e) => {

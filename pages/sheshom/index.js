@@ -17,10 +17,10 @@ const Panjom = () => {
     }, []);
     return (
         <div style={{minHeight:"100vh"}} className='page-padding-tops'>
-    <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px"}} className='container bg-white rounded shadow border'>
+    <div style={{marginTop:"50px" , paddingTop:"50px" , paddingBottom:"50px" , boxShadow: "1px 3px 15px 2px #ff6200"}} className='container bg-white rounded'>
     <div className='row align-items-center'>
             <div className='col-12 col-lg-7'>
-                <h2 className='text-center text-lg-end' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}}>
+                <h2 className='text-center text-lg-end' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#ff6200"}}>
                     پایه ششم دبستان
                 </h2>
                 <p
@@ -28,7 +28,7 @@ const Panjom = () => {
                 style={{fontSize:"15px" , fontFamily:"KalamehWeb-Medium" , color:"#000" , lineHeight:"1.6rem"}}>پایه پنجم دبستان | سامانه همیار معلم دبستان جهان آرا</p>
             </div>
             <div className='col-12 col-lg-5 text-center text-lg-start'>
-                    <Image style={{width:"100px" , height:"100px"}} src={"/images/components/modules/number-5.png"} height={512} width={512} />
+                    <Image style={{width:"100px" , height:"100px"}} src={"/images/components/modules/number-6.png"} height={512} width={512} />
             </div>
     </div>
 </div>
