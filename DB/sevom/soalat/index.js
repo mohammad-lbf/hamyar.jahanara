@@ -262,10 +262,83 @@ const data = [
         gradeInP:"پایه سوم",
         image:"/images/components/modules/books/sevom/riazi.jpg",
         slug: "/sevom/soalat/30029"
-    }  
+    } 
+    , {
+        id:30030,
+        name:"نمونه سوالات ارزشیابی آبان ماه فارسی",
+        caption: "نمونه سوالات ارزشیابی آبان ماه فارسی - پایه سوم",
+        creator:"خانم حدیث مرادی پور",
+        upoledDate:"1403/08/27",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/farsi-p3.pdf", 
+        book:"farsi",
+        boolInP:"فارسی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/farsi.jpg",
+        slug: "/sevom/soalat/30030"
+    } ,
+    {
+        id:30031,
+        name:"نمونه سوالات مرور فصل 1 و2 ریاضی",
+        caption: "نمونه سوالات مرور فصل 1 و 2ریاضی - پایه سوم",
+        creator:"خانم فاطمه امراللهی",
+        upoledDate:"1403/08/30",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/فصل 1 و2.pdf", 
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/riazi.jpg",
+        slug: "/sevom/soalat/30031"
+    } 
+    ,
+    {
+        id:30032,
+        name:"آزمون مداد کاغذی درس اول ودوم فارسی",
+        caption: "آزمون مداد کاغذی درس اول ودوم فارسی - پایه سوم",
+        creator:"خانم فاطمه امراللهی",
+        upoledDate:"1403/08/30",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/1_14230795506.pdf", 
+        book:"farsi",
+        boolInP:"فارسی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/farsi.jpg",
+        slug: "/sevom/soalat/30032"
+    } 
+    ,
+    {
+        id:30033,
+        name:"نمونه سوالات درس 3 تا 5 فارسی",
+        caption: "نمونه سوالات درس 3 تا 5 فارسی - پایه سوم",
+        creator:"خانم فاطمه امراللهی",
+        upoledDate:"1403/08/30",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/نمونه سوال درس 3 تا 5 فارسی.pdf", 
+        book:"farsi",
+        boolInP:"فارسی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/farsi.jpg",
+        slug: "/sevom/soalat/30033"
+    } 
+    ,
+    {
+        id:30034,
+        name:"نمونه سوال فصل 1 و 2 مطالعات اجتماعی",
+        caption: "نمونه سوال فصل 1 و 2 مطالعات اجتماعی - پایه سوم",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/30",
+        fileType:"PDF",
+        src:"/Files/sevom/soalat/نمونه-سوال-فصل-1-و-2-مطالعات-اجتماعی-سوم-ابتدایی.pdf", 
+        book:"motaleat",
+        boolInP:"مطالعات اجتماعی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/motaleat.jpg",
+        slug: "/sevom/soalat/30034"
+    } 
 
     
-
+   
 ]
 
 export default data
