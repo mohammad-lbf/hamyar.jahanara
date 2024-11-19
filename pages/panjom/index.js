@@ -5,6 +5,11 @@ import React from 'react';
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import Cookies from 'js-cookie';
+import darsnameh from '@/DB/panjom/darsnameh';
+import mohtava from '@/DB/panjom/mohtava';
+import soalat from '@/DB/panjom/soalat';
+import tarhedars from '@/DB/panjom/tarhedars';
+import ToolsMenuOption from '@/components/modules/ToolsMenuOption';
 
 const Panjom = () => {
     const router = useRouter();
@@ -35,38 +40,18 @@ const Panjom = () => {
 
             <h3 style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}} className='mb-4 text-center mt-4 pt-4'>ابزار های سامانه | پایه پنجم</h3>
         <div className='container'>
-                    <div className='row justify-content-center'>
-            <div className='col-12 col-lg-6 col-xl-4 col-xxl-3 mb-4 mt-2 mb-lh-0'>
-                <Link href={"/panjom/soalat"}>
-                <div className='hover-up-element d-flex align-items-center bg-white rounded border py-2 px-3'>
-                    <Image style={{width:"60px" , height:"60px"}} width={512} height={512} src={"/images/components/modules/tests.png"} />
-                    <span className='me-3' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}}>نمونه سوال</span>
-                </div>
-                </Link>
+        <div className='row justify-content-center'>
+            <div className='col-12 col-sm-6 col-xl-4 col-xxl-3 mb-4 mt-2 mb-lh-0 d-flex justify-content-center'>
+                <ToolsMenuOption type={"soalat"} number={soalat.length} slug="/panjom/soalat" />
             </div>
-            <div className='col-12 col-lg-6 col-xl-4 col-xxl-3 mb-4 mt-2 mb-lh-0'>
-                <Link href={"/panjom/tarhedars"}>
-                <div className='hover-up-element d-flex align-items-center bg-white rounded border py-2 px-3'>
-                    <Image style={{width:"60px" , height:"60px"}} width={512} height={512} src={"/images/components/modules/tarhedars.png"} />
-                    <span className='me-3' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e" , lineHeight:"1.9rem"}}>طرح درس</span>
-                </div>
-                </Link>
+            <div className='col-12 col-sm-6 col-xl-4 col-xxl-3 mb-4 mt-2 mb-lh-0'>
+                    <ToolsMenuOption type={"tarhedars"} number={tarhedars.length} slug={"/panjom/tarhedars"} />
             </div>
-            <div className='col-12 col-lg-6 col-xl-4 col-xxl-3 mb-4 mt-2 mb-lh-0'>
-                <Link href={"/panjom/mohtava"}>
-                <div className='hover-up-element d-flex align-items-center bg-white rounded border py-2 px-3'>
-                    <Image style={{width:"60px" , height:"60px"}} width={512} height={512} src={"/images/components/modules/mohtavaye-amoozeshi.png"} />
-                    <span className='me-3' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e" , lineHeight:"1.9rem"}}>محتوای آموزشی</span>
-                </div>
-                </Link>
+            <div className='col-12 col-sm-6 col-xl-4 col-xxl-3 mb-4 mt-2 mb-lh-0'>
+                    <ToolsMenuOption type={"mohtava"} number={mohtava.length} slug={"/panjom/mohtava"} />
             </div>
-            <div className='col-12 col-lg-6 col-xl-4 col-xxl-3 mb-4 mt-2 mb-lh-0'>
-                <Link href={"/panjom/darsnameh"}>
-                <div className='hover-up-element d-flex align-items-center bg-white rounded border py-2 px-3'>
-                    <Image style={{width:"60px" , height:"60px"}} width={512} height={512} src={"/images/components/modules/darsnameh.png"} />
-                    <span className='me-3' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}}>درسنامه آموزشی</span>
-                </div>
-                </Link>
+            <div className='col-12 col-sm-6 col-xl-4 col-xxl-3 mb-4 mt-2 mb-lh-0'>
+                <ToolsMenuOption type={"darsnameh"} number={darsnameh.length} slug={"/panjom/darsnameh"}  />
             </div>
         </div>
         </div>

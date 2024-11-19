@@ -765,13 +765,21 @@ box-shadow: 5px 5px 15px rgb(138, 138, 138) , -5px -5px 15px rgb(138, 138, 138);
 
 .hover-up-element{
   transition: all 0.3s;
-  box-shadow: 2px 2px 8px #03004e, -1px -1px 8px #03004e;
+  /* box-shadow: 2px 2px 8px #03004e, -1px -1px 8px #03004e; */
 }
 .hover-up-element:hover{
 
-    transform: translateY(-5px);
-    box-shadow: 2px 2px 8px #16c000, -1px -1px 8px #16c000; /* حرکت به سمت بالا */
+    transform: translateY(-5px); /* حرکت به سمت بالا */
 
+}
+.scale-up-element{
+  transition: all 0.3s;
+}
+.scale-up-element:hover{
+  transform: scale(1.03) translateY(-15px);
+}
+.scale-up-element .bi-caret-right-fill{
+  animation: iconBounce 1s infinite;
 }
 
 .home-first-banner{

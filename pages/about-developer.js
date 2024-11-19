@@ -1,10 +1,11 @@
+import Skills from '@/components/modules/Skills';
 import React from 'react';
 
 const AboutDeveloper = () => {
     return (
         <div className="container page-padding-tops">
         <div className='pt-4 mt-2 mb-2 row justify-content-center'>
-              <div className='col-12 col-sm-10 col-md-7 col-lg-5 py-4 border my-4 rounded bg-white shadow-sm'>
+              <div className='col-12 col-sm-10 py-4 border my-4 rounded bg-white shadow-sm'>
               <h5 style={{fontSize:"24px",color:"#464749" , 
                   fontFamily:"KalamehWeb-Bold"}} 
                   className='text-center my-4 pb-2'>
@@ -66,6 +67,7 @@ const AboutDeveloper = () => {
                   className='text-start mt-1 mb-1'>
                     پائیز 1403
               </p>
+              <Skills />
               </div>
         </div>
       </div>

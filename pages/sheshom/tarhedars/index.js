@@ -2,7 +2,8 @@ import Image from 'next/image';
 import React , { useState } from 'react';
 import data from '@/DB/sheshom/tarhedars';
 import Card from '@/components/modules/Card';
-import styles from '../../../styles/filterselect.module.css'
+import styles from '../../../styles/filterselect.module.css';
+
 const Tarhedars = () => {
   const reverseData = data.reverse();
   const [selectedOption, setSelectedOption] = useState('all');
