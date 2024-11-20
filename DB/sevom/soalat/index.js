@@ -276,21 +276,21 @@ const data = [
         gradeInP:"پایه سوم",
         image:"/images/components/modules/books/sevom/farsi.jpg",
         slug: "/sevom/soalat/30030"
-    } ,
-    {
-        id:30031,
-        name:"نمونه سوالات مرور فصل 1 و2 ریاضی",
-        caption: "نمونه سوالات مرور فصل 1 و 2ریاضی - پایه سوم",
-        creator:"خانم فاطمه امراللهی",
-        upoledDate:"1403/08/30",
-        fileType:"PDF",
-        src:"/Files/sevom/soalat/فصل 1 و2.pdf", 
-        book:"riazi",
-        boolInP:"ریاضی",
-        gradeInP:"پایه سوم",
-        image:"/images/components/modules/books/sevom/riazi.jpg",
-        slug: "/sevom/soalat/30031"
-    } 
+    }
+    // {
+    //     id:30031,
+    //     name:"نمونه سوالات مرور فصل 1 و2 ریاضی",
+    //     caption: "نمونه سوالات مرور فصل 1 و 2ریاضی - پایه سوم",
+    //     creator:"خانم فاطمه امراللهی",
+    //     upoledDate:"1403/08/30",
+    //     fileType:"PDF",
+    //     src:"/Files/sevom/soalat/فصل 1 و2.pdf", 
+    //     book:"riazi",
+    //     boolInP:"ریاضی",
+    //     gradeInP:"پایه سوم",
+    //     image:"/images/components/modules/books/sevom/riazi.jpg",
+    //     slug: "/sevom/soalat/30031"
+    // } 
     ,
     {
         id:30032,
