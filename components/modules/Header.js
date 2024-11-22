@@ -77,7 +77,7 @@ const Header = () => {
                                         </li>
                                         <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/support" ? "active" : "text-dark"}`} href={"/support"}>پشتیبانی</Link></li>
                                         <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/about-developer" ? "active" : "text-dark"}`} href={"/about-developer"}>درباره توسعه دهنده</Link></li>
-                                    
+                                        <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/about-school" ? "active" : "text-dark"}`} href={"/about-school"}>درباره مدرسه</Link></li>
                                 </ul>
                             </nav>
                             <button style={{backgroundColor:"transparent"}} onClick={handleShow} className="border-0 burger-icon burger-icon-white"><span class="burger-icon-top"></span><span class="burger-icon-mid"></span><span class="burger-icon-bottom"></span></button>

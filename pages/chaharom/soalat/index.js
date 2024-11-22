@@ -19,6 +19,7 @@ const Tarhedars = () => {
                                 <h2 className='text-center text-lg-end' style={{fontSize:"25px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}}>
                                     نمونه سوالات پایه چهارم
                                 </h2>
+                                
                             </div>
                             <div className='col-12 col-lg-5 text-center text-lg-start'>
                                     <Image className='mt-3 mt-lg-0' style={{width:"50px" , height:"50px"}} src={"/images/components/modules/number-4.png"} height={512} width={512} />
