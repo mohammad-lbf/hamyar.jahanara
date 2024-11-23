@@ -112,6 +112,64 @@ const data = [
         image:"/images/components/modules/books/chaharom/farsi.jpg",
         slug: "/chaharom/soalat/40018"
     }
+    ,
+    {
+        id:40019,
+        name:"تمرین فصل 1 و 2 ریاضی — چهارم دبستان",
+        caption:"تمرین فصل 1 و 2 ریاضی — چهارم دبستان",
+        creator:"محمد لبافی",
+        upoledDate:"1403/09/03",
+        fileType:"PDF",
+        src:"https://biamoz.com/dl/4/riazi/f2/%D8%AA%D9%85%D8%B1%DB%8C%D9%86-%D9%81%D8%B5%D9%84-1-%D9%88-2-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-(%D8%B3%D8%B1%DB%8C2)-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_Biamoz.com.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/riazi.jpg",
+        slug: "/chaharom/soalat/40019"
+    }
+    ,
+    {
+        id:40020,
+        name:"آزمون مداد کاغذی و عملکردی فصل 1 و 2 ریاضی — چهارم دبستان",
+        caption:"آزمون مداد کاغذی و عملکردی فصل 1 و 2 ریاضی — چهارم دبستان",
+        creator:"محمد لبافی",
+        upoledDate:"1403/09/03",
+        fileType:"PDF",
+        src:"https://biamoz.com/dl/4/riazi/f2/%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D9%85%D8%AF%D8%A7%D8%AF-%DA%A9%D8%A7%D8%BA%D8%B0%DB%8C-%D9%88-%D8%B9%D9%85%D9%84%DA%A9%D8%B1%D8%AF%DB%8C-%D9%81%D8%B5%D9%84-1-%D9%88-2-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-(%D8%B3%D8%B1%DB%8C1)-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_Biamoz.com.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/riazi.jpg",
+        slug: "/chaharom/soalat/40020"
+    },
+    {
+        id:40021,
+        name:"نمونه سوال و حل تمرین فصل 1 و 2 ریاضی",
+        caption:"نمونه سوال و حل تمرین فصل 1 و 2 ریاضی — چهارم دبستان",
+        creator:"محمد لبافی",
+        upoledDate:"1403/09/03",
+        fileType:"PDF",
+        src:"https://biamoz.com/dl/4/riazi/f2/%D8%AA%D9%85%D8%B1%DB%8C%D9%86-%D9%81%D8%B5%D9%84-1-%D9%88-2-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-(%D8%B3%D8%B1%DB%8C1)-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_Biamoz.com.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/riazi.jpg",
+        slug: "/chaharom/soalat/40021"
+    },
+    {
+        id:40022,
+        name:"ارزشیابی مستمر فصل 2 کسر ریاضی",
+        caption:"ارزشیابی مستمر فصل 2 کسر ریاضی — چهارم دبستان",
+        creator:"محمد لبافی",
+        upoledDate:"1403/09/03",
+        fileType:"PDF",
+        src:"https://biamoz.com/dl/4/riazi/f2/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C-%D9%85%D8%B3%D8%AA%D9%85%D8%B1-%D9%81%D8%B5%D9%84-2-%DA%A9%D8%B3%D8%B1-%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C-(%D8%B3%D8%B1%DB%8C1)-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_Biamoz.com.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/riazi.jpg",
+        slug: "/chaharom/soalat/40022"
+    }
 
 ]
 

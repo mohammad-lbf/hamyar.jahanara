@@ -36,11 +36,11 @@ const Page = () => {
                 <>
                             <div style={{marginTop:"10px" , paddingTop:"20px" , paddingBottom:"20px"}} className='mb-4 container bg-white rounded shadow-sm border'>
                     <div>
-                        <div className='row justify-content-center justify-content-lg-start align-items-start'>
+                        <div className='row justify-content-center justify-content-lg-between align-items-start'>
                                 <div className='col-12 col-lg-2 d-flex justify-content-center justify-content-lg-start'>
                                         <Image style={{width:"180px" , height:"220px"}} className='border' src={currentFileData.image} width={230} height={320} />
                                 </div>
-                                <div className='col-12 col-lg-10 d-flex flex-column align-items-center align-items-lg-start mt-3'>
+                                <div className={`col-12 ${currentFileData.fileType == "video" ? "col-lg-6" : "col-lg-10"} d-flex flex-column align-items-center align-items-lg-start mt-3`}>
                                         <h2 className='mb-3' style={{fontFamily:"KalamehWeb-bold" , fontSize:"22px"}}>{currentFileData.name}</h2>
                                         <p className='' style={{fontFamily:"KalamehWeb-medium"}}>
                                             {currentFileData.caption}
@@ -59,11 +59,12 @@ const Page = () => {
                                             {currentFileData.fileType == "PDF" && <i class="pb-2 bi bi-filetype-pdf text-white fs-5"></i>}
                                             {currentFileData.fileType == "WORD" && <i class="pb-2 bi bi-file-earmark-word-fill text-white fs-5"></i>}
                                             {currentFileData.fileType == "JPG" && <i class="pb-2 bi bi-card-image text-white fs-5"></i>}
+                                            {currentFileData.fileType == "video" && <i class="pb-2 bi bi-camera-reels-fill text-white fs-5"></i>}
                                             </div>
                                         </div>
                                             <div className="mb-1 d-flex justify-content-center mt-3">
                                                 <i className="bi bi-pen-fill ms-1 text-black"></i>
-                                                <p style={{fontFamily:"KalamehWeb-Medium" , color:"#000"}}>طراح:{currentFileData.creator}</p>
+                                                <p style={{fontFamily:"KalamehWeb-Medium" , color:"#000"}}>بارگذاری شده توسط: {currentFileData.creator}</p>
                                             </div>
                                             <div className="mb-1 d-flex justify-content-center mt-3">
                                                 <i className="bi bi-calendar-check-fill ms-1 text-black"></i>
@@ -72,6 +73,13 @@ const Page = () => {
 
                                             <a  download={true} className='mt-3 btn-main-2 2 text-center d-inline-block text-white w-100' style={{borderRadius:"0" , fontFamily:"KalamehWeb-Bold"}} href={`${currentFileData.src}`}>دریافت فایل</a>
                                 </div>
+                                {
+                                    currentFileData.fileType == "video" && 
+                                    <div className='col-12 col-lg-4'>
+                                            <video className='rounded' style={{width:"100%"}} controls src={currentFileData.src}></video>
+                                    </div>
+                                }
+                                
                         </div>
                     </div>
             </div>

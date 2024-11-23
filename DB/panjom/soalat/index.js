@@ -166,7 +166,72 @@ const data = [
         gradeInP:"پایه پنجم",
         image:"/images/components/modules/books/panjom/motaleat.jpg",
         slug: "/panjom/soalat/50022"
-    } , 
+    } ,    {
+        id:50023,
+        name:"نمونه سوال علوم تجربی مهر ماه",
+        caption:"نمونه سوال علوم تجربی مهر ماه — پنجم ابتدایی",
+        creator:"خانم مریم سلطانی",
+        upoledDate:"1403/09/03",
+        fileType:"PDF",
+        src:"/Files/panjom/soalat/2015502080_352423422.pdf",
+        book:"oloom",
+        boolInP:"علوم",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/oloom.jpg",
+        slug: "/panjom/soalat/50023"
+    } ,    {
+        id:50024,
+        name:"نمونه سوال ارزیابی مطالعات اجتماعی مهر ماه",
+        caption:"نمونه سوال ارزیابی مطالعات اجتماعی مهر ماه — پایه پنجم ابتدایی",
+        creator:"خانم مریم سلطانی",
+        upoledDate:"1403/09/03",
+        fileType:"PDF",
+        src:"/Files/panjom/soalat/1849892609_1128582875_page-0002.pdf",
+        book:"motaleat",
+        boolInP:"مطالعات اجتماعی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/motaleat.jpg",
+        slug: "/panjom/soalat/50024"
+    } ,    {
+        id:50025,
+        name:"نمونه سوال ارزیابی ریاضی مهرماه",
+        caption:"نمونه سوال  ارزیابی ریاضی مهرماه — پنجم ابتدایی",
+        creator:"خانم مریم سلطانی",
+        upoledDate:"1403/09/03",
+        fileType:"PDF",
+        src:"/Files/panjom/soalat/1814896387_-1867724943.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/riazi.jpg",
+        slug: "/panjom/soalat/50025"
+    } ,    {
+        id:50026,
+        name:"نمونه سوال ارزشیابی درس 3 و 4 و 5 هدیه های آسمان",
+        caption:"نمونه سوال ارزشیابی درس 3 و 4 و 5 هدیه های آسمان — پنجم ابتدایی",
+        creator:"خانم مریم سلطانی",
+        upoledDate:"1403/09/03",
+        fileType:"PDF",
+        src:"/Files/panjom/soalat/Hediyeh 3,4&5_053423.pdf",
+        book:"hedye",
+        boolInP:"هدیه های آسمان",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/hedye.jpg",
+        slug: "/panjom/soalat/50026"
+    } ,    {
+        id:50027,
+        name:"نمونه سوال ارزشیابی درس 3 و 4 علوم",
+        caption:"نمونه سوال نمونه سوال ارزشیابی درس 3 و 4 علوم — پنجم ابتدایی" ,
+        creator:"خانم مریم سلطانی",
+        upoledDate:"1403/09/03",
+        fileType:"PDF",
+        src:"/Files/panjom/soalat/.pdf",
+        book:"oloom",
+        boolInP:"علوم تجربی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/oloom.jpg",
+        slug: "/panjom/soalat/50027"
+}
     
     
 
