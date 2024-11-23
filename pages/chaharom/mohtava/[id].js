@@ -76,7 +76,7 @@ const Page = () => {
                                 {
                                     currentFileData.fileType == "video" && 
                                     <div className='col-12 col-lg-4'>
-                                            <video className='rounded' style={{width:"100%"}} controls src={currentFileData.src}></video>
+                                            <video className='rounded mt-3 mt-lg-0' style={{width:"100%"}} controls src={currentFileData.src}></video>
                                     </div>
                                 }
                                 
