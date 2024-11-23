@@ -19,7 +19,7 @@ const Login = () => {
       e.preventDefault();
         const correctPassword = "1323"; // رمز عبور مورد نظر خود
         if (password === correctPassword) {
-          setErr('false');
+          setErr(false);
           // تنظیم کوکی با انقضای یک روز
           Cookies.set('auth', 'true', { expires: 1 });
           router.push('/'); // به صفحه محافظت‌شده هدایت می‌شود
