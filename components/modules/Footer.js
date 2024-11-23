@@ -60,7 +60,7 @@ const Footer = () => {
                         <Link style={{fontFamily:"KalamehWeb-Medium"}}  className={`mx-2 mb-2 ${styles.scaleHover} pb-1`} href="/about-developer">
                             درباره توسعه دهنده
                         </Link>
-                        <Link style={{fontFamily:"KalamehWeb-Medium"}}  className={`mx-2 mb-2 ${styles.scaleHover} pb-1`} href="/about-developer">
+                        <Link style={{fontFamily:"KalamehWeb-Medium"}}  className={`mx-2 mb-2 ${styles.scaleHover} pb-1`} href="/about-school">
                             درباره مدرسه
                         </Link>
                     </nav>
