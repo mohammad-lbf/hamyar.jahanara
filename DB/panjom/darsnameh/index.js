@@ -12,8 +12,7 @@ const data = [
         gradeInP:"پایه پنجم",
         image:"/images/components/modules/books/panjom/riazi.jpg",
         slug: "/panjom/darsnameh/50041"
-    } , 
-    
+    } 
 
 ]
 

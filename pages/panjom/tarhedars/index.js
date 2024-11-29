@@ -4,7 +4,7 @@ import data from '@/DB/panjom/tarhedars';
 import Card from '@/components/modules/Card';
 import styles from '../../../styles/filterselect.module.css'
 const Tarhedars = () => {
-  const reverseData = data.reverse();
+  const reverseData = [...data].reverse();
   const [selectedOption, setSelectedOption] = useState('all');
   const reverseSelectedOption = data.filter(item => item.book == selectedOption).reverse();
     const handleChange = (e) => {

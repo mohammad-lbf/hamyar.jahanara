@@ -105,7 +105,21 @@ const data = [
         gradeInP:"پایه چهارم",
         image:"/images/components/modules/books/chaharom/farsi.jpg",
         slug: "/chaharom/tarhedars/40028"
-    } ,    
+    } ,  
+    {
+        id:40029,
+        name:"طرح درس روزانه آموزش قرآن - پایه چهارم",
+        caption:"طرح درس روزانه آموزش قرآن - پایه چهارم",
+        creator:"خانم ندا باقریان",
+        upoledDate:"1403/09/09",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B1%D8%B3%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%D9%82%D8%B1%D8%A2%D9%86_%20%D9%BE%D8%A7%DB%8C%D9%87%20%DA%86%D9%87%D8%A7%D8%B1%D9%85%281%29.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/riazi.jpg",
+        slug: "/chaharom/tarhedars/40029"
+    } ,   
 
     
 ]

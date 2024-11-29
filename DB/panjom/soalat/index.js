@@ -209,7 +209,7 @@ const data = [
         id:50026,
         name:"نمونه سوال ارزشیابی درس 3 و 4 و 5 هدیه های آسمان",
         caption:"نمونه سوال ارزشیابی درس 3 و 4 و 5 هدیه های آسمان — پنجم ابتدایی",
-        creator:"خانم مریم سلطانی",
+        creator:"سپهر ابراهیم پور",
         upoledDate:"1403/09/03",
         fileType:"PDF",
         src:"/Files/panjom/soalat/Hediyeh 3,4&5_053423.pdf",
@@ -222,7 +222,7 @@ const data = [
         id:50027,
         name:"نمونه سوال ارزشیابی درس 3 و 4 علوم",
         caption:"نمونه سوال نمونه سوال ارزشیابی درس 3 و 4 علوم — پنجم ابتدایی" ,
-        creator:"خانم مریم سلطانی",
+        creator:"سپهر ابراهیم پور",
         upoledDate:"1403/09/03",
         fileType:"PDF",
         src:"/Files/panjom/soalat/.pdf",
@@ -231,6 +231,47 @@ const data = [
         gradeInP:"پایه پنجم",
         image:"/images/components/modules/books/panjom/oloom.jpg",
         slug: "/panjom/soalat/50027"
+} ,    {
+    id:50028,
+    name:"سوالات هدیه های آسمان درس ۳ تا ۵",
+    caption:"سوالات هدیه های آسمان درس ۳ تا ۵ - پایه پنجم" ,
+    creator:"خانم ندا باقریان",
+    upoledDate:"1403/09/09",
+    fileType:"PDF",
+    src:"https://coding-lbf.storage.iran.liara.space/%D9%87%D8%AF%DB%8C%D9%87%20%DB%B3%D8%AA%D8%A7%20%DB%B5.pdf",
+    book:"hedye",
+    boolInP:"هدیه های آسمان",
+    gradeInP:"پایه پنجم",
+    image:"/images/components/modules/books/panjom/hedye.jpg",
+    slug: "/panjom/soalat/50028"
+}
+,    {
+    id:50029,
+    name:"ارزشیابی فصل اول ریاضی پنجم",
+    caption:"ارزشیابی فصل اول ریاضی - پایه پنجم" ,
+    creator:"خانم ندا باقریان",
+    upoledDate:"1403/09/09",
+    fileType:"WORD",
+    src:"https://coding-lbf.storage.iran.liara.space/%40kelaspanj.docx",
+    book:"riazi",
+    boolInP:"ریاضی",
+    gradeInP:"پایه پنجم",
+    image:"/images/components/modules/books/panjom/riazi.jpg",
+    slug: "/panjom/soalat/50029"
+}
+,    {
+    id:50030,
+    name:"نمونه سوالات فصل اول ریاضی - پایه پنجم",
+    caption:"نمونه سوالات فصل اول ریاضی - پایه پنجم" ,
+    creator:"خانم ندا باقریان",
+    upoledDate:"1403/09/09",
+    fileType:"PDF",
+    src:"https://coding-lbf.storage.iran.liara.space/220_62693722838020.pdf",
+    book:"riazi",
+    boolInP:"ریاضی",
+    gradeInP:"پایه پنجم",
+    image:"/images/components/modules/books/panjom/riazi.jpg",
+    slug: "/panjom/soalat/50030"
 }
     
     

@@ -55,6 +55,21 @@ const data = [
         image:"/images/components/modules/books/panjom/motaleat.jpg",
         slug: "/panjom/tarhedars/50024"
     } , 
+    {
+        id:50025,
+        name:"طرح درس روزانه درس نهم فارسی پنجم",
+        caption:"طرح درس روزانه درس نهم فارسی - پایه پنجم",
+        creator:"خانم ندا باقریان",
+        upoledDate:"1403/09/09",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/1_12097924154.pdf",
+        book:"farsi",
+        boolInP:"فارسی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/farsi.jpg",
+        slug: "/panjom/tarhedars/50025"
+    }
+
         
 
 ]
