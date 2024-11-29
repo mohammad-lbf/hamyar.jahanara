@@ -13,9 +13,93 @@ const data = [
         image:"/images/components/modules/books/sevom/riazi.jpg",
         slug: "/sevom/mohtava/30031"
     } , 
+        {
+        id:30032,
+        name:"ویدئوی آموزشی فندق: علوم درس ۳",
+        caption:"ویدئوی آموزشی فندق: علوم درس ۳ - پایه سوم",
+        creator:"خانم فاطمه امراللهی",
+        upoledDate:"1403/09/09",
+        fileType:"video",
+        src:"https://coding-lbf.storage.iran.liara.space/document_5913787650078151824.mp4",
+        book:"oloom",
+        boolInP:"علوم تجربی",
+        gradeInP:"پایه سوم",
+        image:"/images/components/modules/books/sevom/oloom.jpg",
+        slug: "/sevom/mohtava/30032"
+    } , 
+    {
+    id:30033,
+    name:"",
+    caption:"",
+    creator:"خانم فاطمه امراللهی",
+    upoledDate:"1403/09/09",
+    fileType:"video",
+    src:"",
+    book:"",
+    boolInP:"",
+    gradeInP:"پایه سوم",
+    image:"/images/components/modules/books/sevom/.jpg",
+    slug: "/sevom/mohtava/30033"
+} , 
+    {
+    id:30034,
+    name:"",
+    caption:"",
+    creator:"خانم فاطمه امراللهی",
+    upoledDate:"1403/09/09",
+    fileType:"video",
+    src:"",
+    book:"",
+    boolInP:"",
+    gradeInP:"پایه سوم",
+    image:"/images/components/modules/books/sevom/.jpg",
+    slug: "/sevom/mohtava/30034"
+    } , 
+    {
+    id:30035,
+    name:"",
+    caption:"",
+    creator:"خانم فاطمه امراللهی",
+    upoledDate:"1403/09/09",
+    fileType:"video",
+    src:"",
+    book:"",
+    boolInP:"",
+    gradeInP:"پایه سوم",
+    image:"/images/components/modules/books/sevom/.jpg",
+    slug: "/sevom/mohtava/30035"
+    } , 
+    {
+    id:30036,
+    name:"",
+    caption:"",
+    creator:"خانم فاطمه امراللهی",
+    upoledDate:"1403/09/09",
+    fileType:"video",
+    src:"",
+    book:"",
+    boolInP:"",
+    gradeInP:"پایه سوم",
+    image:"/images/components/modules/books/sevom/.jpg",
+    slug: "/sevom/mohtava/30036"
+    } , 
+    {
+    id:30037,
+    name:"",
+    caption:"",
+    creator:"خانم فاطمه امراللهی",
+    upoledDate:"1403/09/09",
+    fileType:"video",
+    src:"",
+    book:"",
+    boolInP:"",
+    gradeInP:"پایه سوم",
+    image:"/images/components/modules/books/sevom/.jpg",
+    slug: "/sevom/mohtava/30037"
+    } ,
+        
+        
     
-    
-
 ]
 
 export default data
