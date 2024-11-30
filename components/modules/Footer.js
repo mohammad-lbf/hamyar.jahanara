@@ -63,6 +63,7 @@ const Footer = () => {
                         <Link style={{fontFamily:"KalamehWeb-Medium"}}  className={`mx-2 mb-2 ${styles.scaleHover} pb-1`} href="/about-school">
                             درباره مدرسه
                         </Link>
+                        <div className='m-3'><a style={{fontFamily:"KalamehWeb-Bold" , border:"none"}} className={`p-0 border-0`} href={"https://worksave-jahan.netlify.app/"}><button style={{fontFamily:"KalamehWeb-Bold"}} class="button-85 border-0" role="button">برنامه پیشرفته ثبت کار</button></a></div>
                     </nav>
                 </div>
             </div>
