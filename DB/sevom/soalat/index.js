@@ -351,7 +351,21 @@ const data = [
        image:"/images/components/modules/books/sevom/riazi.jpg",
        slug: "/sevom/soalat/40035"
     }
-    
+    , 
+    {
+       id:40036,
+       name:"ارزشیابی فصل اول ریاضی",
+       caption:"ارزشیابی فصل اول ریاضی - پایه سوم",
+       creator:"خانم حدیث مرادی پور",
+       upoledDate:"1403/09/16",
+       fileType:"PDF",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/moradi/riazi%20p3%281%29.pdf",
+       book:"riazi",
+       boolInP:"ریاضی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/riazi.jpg",
+       slug: "/sevom/soalat/40036"
+    }
    
 ]
 
