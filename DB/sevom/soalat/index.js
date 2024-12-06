@@ -336,7 +336,21 @@ const data = [
         image:"/images/components/modules/books/sevom/motaleat.jpg",
         slug: "/sevom/soalat/30034"
     } 
-
+    , 
+    {
+       id:40035,
+       name:"مرور فصل 1 و 2 ریاضی",
+       caption:"مرور فصل 1 و 2 ریاضی - پایه سوم",
+       creator:"خانم فاطمه امراللهی",
+       upoledDate:"1403/09/16",
+       fileType:"PDF",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/%D9%85%D8%B1%D9%88%D8%B11%D9%882.pdf",
+       book:"riazi",
+       boolInP:"ریاضی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/riazi.jpg",
+       slug: "/sevom/soalat/40035"
+    }
     
    
 ]

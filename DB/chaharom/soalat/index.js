@@ -170,7 +170,119 @@ const data = [
         image:"/images/components/modules/books/chaharom/riazi.jpg",
         slug: "/chaharom/soalat/40022"
     }
-
+     , 
+     {
+        id:40023,
+        name:"آزمون نوبت دوم قرآن",
+        caption:"آزمون نوبت دوم قرآن - پایه چهارم",
+        creator:"محمد لبافی",
+        upoledDate:"1403/09/16",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/chaharom/labbafi/%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D9%86%D9%88%D8%A8%D8%AA-%D8%AF%D9%88%D9%85-%D9%82%D8%B1%D8%A2%D9%86-%28%D8%B3%D8%B1%DB%8C2%29-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86.pdf",
+        book:"quran",
+        boolInP:"آموزش قرآن",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/quran.jpg",
+        slug: "/chaharom/soalat/40023"
+    }     , 
+    {
+       id:40024,
+       name:"پرسش و پاسخ درس 1 و 2 قرآن",
+       caption:"پرسش و پاسخ درس 1 و 2 قرآن - پایه چهارم",
+       creator:"محمد لبافی",
+       upoledDate:"1403/09/16",
+       fileType:"PDF",
+       src:"https://coding-lbf.storage.iran.liara.space/chaharom/labbafi/%D9%BE%D8%B1%D8%B3%D8%B4-%D9%88-%D9%BE%D8%A7%D8%B3%D8%AE-%D8%AF%D8%B1%D8%B3-1-%D9%88-2-%D9%82%D8%B1%D8%A2%D9%86-%28%D8%B3%D8%B1%DB%8C1%29-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86.pdf",
+       book:"quran",
+       boolInP:"آموزش قرآن",
+       gradeInP:"پایه چهارم",
+       image:"/images/components/modules/books/chaharom/quran.jpg",
+       slug: "/chaharom/soalat/40024"
+   }     , 
+   {
+      id:40025,
+      name:"آزمون مداد کاغذی نوبت دوم انشا و فارسی",
+      caption:"آزمون مداد کاغذی نوبت دوم انشا و فارسی - پایه چهارم",
+      creator:"محمد لبافی",
+      upoledDate:"1403/09/16",
+      fileType:"PDF",
+      src:"https://coding-lbf.storage.iran.liara.space/chaharom/labbafi/%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D9%85%D8%AF%D8%A7%D8%AF-%DA%A9%D8%A7%D8%BA%D8%B0%DB%8C-%D9%86%D9%88%D8%A8%D8%AA-%D8%AF%D9%88%D9%85-%D8%A7%D9%86%D8%B4%D8%A7-%D9%88-%D9%81%D8%A7%D8%B1%D8%B3%DB%8C-%28%D8%B3%D8%B1%DB%8C22%29-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86.pdf",
+      book:"farsi",
+      boolInP:"فارسی",
+      gradeInP:"پایه چهارم",
+      image:"/images/components/modules/books/chaharom/farsi.jpg",
+      slug: "/chaharom/soalat/40025"
+  }     , 
+  {
+     id:40026,
+     name:"آزمون نوبت دوم مطالعات اجتماعی",
+     caption:"آزمون نوبت دوم مطالعات اجتماعی - پایه چهارم",
+     creator:"محمد لبافی",
+     upoledDate:"1403/09/16",
+     fileType:"PDF",
+     src:"https://coding-lbf.storage.iran.liara.space/chaharom/labbafi/%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D9%86%D9%88%D8%A8%D8%AA-%D8%AF%D9%88%D9%85-%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D8%A7%D8%AA-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%28%D8%B3%D8%B1%DB%8C17%29-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86.pdf",
+     book:"motaleat",
+     boolInP:"مطالعات اجتماعی",
+     gradeInP:"پایه چهارم",
+     image:"/images/components/modules/books/chaharom/motaleat.jpg",
+     slug: "/chaharom/soalat/40026"
+ }     , 
+ {
+    id:40027,
+    name:"نمونه سوال نوبت اول مطالعات اجتماعی",
+    caption:"نمونه سوال نوبت اول مطالعات اجتماعی - پایه چهارم",
+    creator:"محمد لبافی",
+    upoledDate:"1403/09/16",
+    fileType:"PDF",
+    src:"https://coding-lbf.storage.iran.liara.space/chaharom/labbafi/%D9%86%D9%85%D9%88%D9%86%D9%87-%D8%B3%D9%88%D8%A7%D9%84-%D9%86%D9%88%D8%A8%D8%AA-%D8%A7%D9%88%D9%84-%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D8%A7%D8%AA-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%28%D8%B3%D8%B1%DB%8C18%29-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86.pdf",
+    book:"motaleat",
+    boolInP:"مطالعات اجتماعی",
+    gradeInP:"پایه چهارم",
+    image:"/images/components/modules/books/chaharom/motaleat.jpg",
+    slug: "/chaharom/soalat/40027"
+}     , 
+{
+   id:40028,
+   name:"ارزشیابی نوبت اول مطالعات اجتماعی",
+   caption:"ارزشیابی نوبت اول مطالعات اجتماعی - پایه چهارم",
+   creator:"محمد لبافی",
+   upoledDate:"1403/09/16",
+   fileType:"PDF",
+   src:"https://coding-lbf.storage.iran.liara.space/chaharom/labbafi/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C-%D9%86%D9%88%D8%A8%D8%AA-%D8%A7%D9%88%D9%84-%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D8%A7%D8%AA-%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C-%28%D8%B3%D8%B1%DB%8C26%29-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86.pdf",
+   book:"motaleat",
+   boolInP:"مطالعات اجتماعی",
+   gradeInP:"پایه چهارم",
+   image:"/images/components/modules/books/chaharom/motaleat.jpg",
+   slug: "/chaharom/soalat/40028"
+}     , 
+{
+   id:40029,
+   name:"نمونه سوال درس 4 و 5 علوم تجربی",
+   caption:"نمونه سوال درس 4 و 5 علوم تجربی - پایه چهارم",
+   creator:"محمد لبافی",
+   upoledDate:"1403/09/16",
+   fileType:"PDF",
+   src:"https://biamoz.com/dl/4/olum/d5/%D9%86%D9%85%D9%88%D9%86%D9%87-%D8%B3%D9%88%D8%A7%D9%84-%D8%AF%D8%B1%D8%B3-4-%D9%88-5-%D8%B9%D9%84%D9%88%D9%85-%D8%AA%D8%AC%D8%B1%D8%A8%DB%8C-(%D8%B3%D8%B1%DB%8C2)-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_Biamoz.com.pdf",
+   book:"oloom",
+   boolInP:"علوم تجربی",
+   gradeInP:"پایه چهارم",
+   image:"/images/components/modules/books/chaharom/oloom.jpg",
+   slug: "/chaharom/soalat/40029"
+}     , 
+{
+   id:40030,
+   name:"آزمون درس 1 تا 5 علوم تجربی",
+   caption:"آزمون درس 1 تا 5 علوم تجربی - پایه چهارم",
+   creator:"محمد لبافی",
+   upoledDate:"1403/09/16",
+   fileType:"PDF",
+   src:"https://biamoz.com/dl/4/olum/d5/%D8%A2%D8%B2%D9%85%D9%88%D9%86-%D8%AF%D8%B1%D8%B3-1-%D8%AA%D8%A7-5-%D8%B9%D9%84%D9%88%D9%85-%D8%AA%D8%AC%D8%B1%D8%A8%DB%8C-(%D8%B3%D8%B1%DB%8C2)-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_Biamoz.com.pdf",
+   book:"oloom",
+   boolInP:"علوم تجربی",
+   gradeInP:"پایه چهارم",
+   image:"/images/components/modules/books/chaharom/oloom.jpg",
+   slug: "/chaharom/soalat/40030"
+} 
 ]
 
 export default data
