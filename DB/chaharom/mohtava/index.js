@@ -26,7 +26,7 @@ const data = [
         gradeInP:"پایه چهارم",
         image:"/images/components/modules/books/chaharom/oloom.jpg",
         slug: "/chaharom/mohtava/40032"
-    } , 
+    } ,
     
 ]
 
