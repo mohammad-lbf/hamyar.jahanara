@@ -376,6 +376,67 @@ const data = [
         gradeInP: "پایه سوم",
         image: "/images/components/modules/books/sevom/oloom.jpg",
         slug: "/sevom/mohtava/30057"
+    } ,
+
+    {
+        id: 30058,
+        name: "تدریس جلسه نهم قرآن  سلام",
+        caption: "تدریس جلسه نهم قرآن  سلام - پایه سوم",
+        creator: "خانم زینب شاه علی",
+        upoledDate: "1403/09/18",
+        fileType: "video",
+        src: "https://coding-lbf.storage.iran.liara.space/sevom/shahali/%D8%AA%D8%AF%D8%B1%DB%8C%D8%B3%20%D8%AC%D9%84%D8%B3%D9%87%20%D9%86%D9%87%D9%85%20%D9%82%D8%B1%D8%A2%D9%86%20%20%D8%B3%D9%84%D8%A7%D9%85.mp4",
+        book: "quran",
+        boolInP: "آموزش قرآن",
+        gradeInP: "پایه سوم",
+        image: "/images/components/modules/books/sevom/quran.jpg",
+        slug: "/sevom/mohtava/30058"
+    }
+    ,
+
+    {
+        id: 30059,
+        name: "قرآن جلسه هشتم تشهد",
+        caption: "قرآن جلسه هشتم تشهد - پایه سوم",
+        creator: "خانم زینب شاه علی",
+        upoledDate: "1403/09/18",
+        fileType: "video",
+        src: "https://coding-lbf.storage.iran.liara.space/sevom/shahali/%D9%82%D8%B1%D8%A2%D9%86%20%D8%AC%D9%84%D8%B3%D9%87%20%D9%87%D8%B4%D8%AA%D9%85%20%D8%AA%D8%B4%D9%87%D8%AF.mp4",
+        book: "quran",
+        boolInP: "آموزش قرآن",
+        gradeInP: "پایه سوم",
+        image: "/images/components/modules/books/sevom/quran.jpg",
+        slug: "/sevom/mohtava/30059"
+    },
+
+    {
+        id: 30060,
+        name: "تساوی کسرها صفحه ی ۵۲ ریاضی",
+        caption: "تساوی کسرها صفحه ی ۵۲ ریاضی - پایه سوم",
+        creator: "خانم حدیث مرادی پور",
+        upoledDate: "1403/09/22",
+        fileType: "video",
+        src: "https://coding-lbf.storage.iran.liara.space/sevom/moradi/%D8%AA%D8%B3%D8%A7%D9%88%DB%8C%20%DA%A9%D8%B3%D8%B1%D9%87%D8%A7%20%D8%B5%D9%81%D8%AD%D9%87%20%DB%8C%20%DB%B5%DB%B2%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C.mp4",
+        book: "riazi",
+        boolInP: "ریاضی",
+        gradeInP: "پایه سوم",
+        image: "/images/components/modules/books/sevom/riazi.jpg",
+        slug: "/sevom/mohtava/30060"
+    },
+
+    {
+        id: 30061,
+        name: "کار در کلاس صفحه ی۵۶ ریاضی",
+        caption: "کار در کلاس صفحه ی۵۶ ریاضی - پایه سوم",
+        creator: "خانم حدیث مرادی پور",
+        upoledDate: "1403/09/22",
+        fileType: "video",
+        src: "https://coding-lbf.storage.iran.liara.space/sevom/moradi/%DA%A9%D8%A7%D8%B1%20%D8%AF%D8%B1%20%DA%A9%D9%84%D8%A7%D8%B3%20%D8%B5%D9%81%D8%AD%D9%87%20%DB%8C%DB%B5%DB%B6%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C.mp4",
+        book: "riazi",
+        boolInP: "ریاضی",
+        gradeInP: "پایه سوم",
+        image: "/images/components/modules/books/sevom/riazi.jpg",
+        slug: "/sevom/mohtava/30061"
     }
         
     

@@ -170,8 +170,8 @@ const Soalat = () => {
                 >
                   <option value="all">همه طراحان ({data.length})</option>
                   <option value="محمد لبافی">محمد لبافی ({countByCreator["محمد لبافی"] || 0})</option>
-                  {/* <option value="خانم فاطمه امراللهی">خانم فاطمه امراللهی ({countByCreator["خانم فاطمه امراللهی"] || 0})</option> */}
-                  {/* <option value="خانم حدیث مرادی پور">خانم حدیث مرادی پور ({countByCreator["خانم حدیث مرادی پور"] || 0})</option> */}
+                  <option value="سید حسین قریشیان">سید حسین قریشیان ({countByCreator["سید حسین قریشیان"] || 0})</option>
+                  <option value="خانم مریم سپیده خو">خانم مریم سپیده خو ({countByCreator["خانم مریم سپیده خو"] || 0})</option>
                 </select>
               </div>
             </div>
