@@ -459,7 +459,7 @@ const data = [
        fileType:"PDF",
        src:"https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%206-.pdf",
        book:"farsi",
-       boolInP:"ریاضی",
+       boolInP:"فارسی",
        gradeInP:"پایه سوم",
        image:"/images/components/modules/books/sevom/farsi.jpg",
        slug: "/sevom/soalat/40043"
@@ -473,7 +473,7 @@ const data = [
        fileType:"PDF",
        src:"https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%207.pdf",
        book:"farsi",
-       boolInP:"ریاضی",
+       boolInP:"فارسی",
        gradeInP:"پایه سوم",
        image:"/images/components/modules/books/sevom/farsi.jpg",
        slug: "/sevom/soalat/40044"
@@ -487,11 +487,12 @@ const data = [
        fileType:"PDF",
        src:"https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/8.pdf",
        book:"farsi",
-       boolInP:"ریاضی",
+       boolInP:"فارسی",
        gradeInP:"پایه سوم",
        image:"/images/components/modules/books/sevom/farsi.jpg",
        slug: "/sevom/soalat/40045"
     }
+   
    
 ]
 

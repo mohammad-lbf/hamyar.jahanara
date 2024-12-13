@@ -437,6 +437,62 @@ const data = [
         gradeInP: "پایه سوم",
         image: "/images/components/modules/books/sevom/riazi.jpg",
         slug: "/sevom/mohtava/30061"
+    }, 
+    {
+       id:40062,
+       name:"آموزش تساوی کسر ها صفحه 52 کتاب ریاضی",
+       caption:"آموزش تساوی کسر ها صفحه 52 کتاب ریاضی - پایه سوم",
+       creator:"خانم فاطمه امراللهی",
+       upoledDate:"1403/09/23",
+       fileType:"video",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%AA%D8%B3%D8%A7%D9%88%DB%8C%20%DA%A9%D8%B3%D8%B1%20%D9%87%D8%A7%20%D8%B5%D9%81%D8%AD%D9%87%2052%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C.mp4",
+       book:"riazi",
+       boolInP:"ریاضی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/riazi.jpg",
+       slug: "/sevom/mohtava/40062"
+    }, 
+    {
+       id:40063,
+       name:"آموزش سوال 2 فعالیت صفحه 52 ریاضی",
+       caption:"آموزش سوال 2 فعالیت صفحه 52 ریاضی - پایه سوم",
+       creator:"خانم فاطمه امراللهی",
+       upoledDate:"1403/09/23",
+       fileType:"video",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B3%D9%88%D8%A7%D9%84%202%20%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA%20%D8%B5%D9%81%D8%AD%D9%87%2052%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C.mp4",
+       book:"riazi",
+       boolInP:"ریاضی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/riazi.jpg",
+       slug: "/sevom/mohtava/40063"
+    }, 
+    {
+       id:40064,
+       name:"آموزش تشهد ضفحه 40 کتاب آموزش قرآن",
+       caption:"آموزش تشهد ضفحه 40 کتاب آموزش قرآن - پایه سوم",
+       creator:"خانم فاطمه امراللهی",
+       upoledDate:"1403/09/23",
+       fileType:"video",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%AA%D8%B4%D9%87%D8%AF%20%D8%B6%D9%81%D8%AD%D9%87%2040%20%DA%A9%D8%AA%D8%A7%D8%A8%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%82%D8%B1%D8%A2%D9%86.mp4",
+       book:"quran",
+       boolInP:"آموزش قرآن",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/quran.jpg",
+       slug: "/sevom/mohtava/40064"
+    }, 
+    {
+       id:40065,
+       name:"آموزش درس 10 مطالعات اجتماعی",
+       caption:"آموزش درس 10 مطالعات اجتماعی - پایه سوم",
+       creator:"خانم فاطمه امراللهی",
+       upoledDate:"1403/09/23",
+       fileType:"video",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%AF%D8%B1%D8%B3%2010%20%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D8%A7%D8%AA%20%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C.mp4",
+       book:"farsi",
+       boolInP:"ریاضی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/farsi.jpg",
+       slug: "/sevom/mohtava/40065"
     }
         
     
