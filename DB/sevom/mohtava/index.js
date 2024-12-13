@@ -371,10 +371,10 @@ const data = [
         upoledDate: "1403/09/18",
         fileType: "video",
         src: "https://coding-lbf.storage.iran.liara.space/sevom/moradi/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D9%88%D8%A7%D8%AD%D8%AF%20%DA%A9%D8%A7%D9%85%D9%84%20%D9%81%D8%B5%D9%84%20%D8%B3%D9%88%D9%85.mp4",
-        book: "oloom",
-        boolInP: "علوم تجربی",
+        book: "riazi",
+        boolInP: "ریاضی",
         gradeInP: "پایه سوم",
-        image: "/images/components/modules/books/sevom/oloom.jpg",
+        image: "/images/components/modules/books/sevom/riazi.jpg",
         slug: "/sevom/mohtava/30057"
     } ,
 
