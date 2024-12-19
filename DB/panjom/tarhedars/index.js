@@ -68,8 +68,48 @@ const data = [
         gradeInP:"پایه پنجم",
         image:"/images/components/modules/books/panjom/farsi.jpg",
         slug: "/panjom/tarhedars/50025"
-    }
-
+    }, 
+    {
+        id:50026,
+        name:"طرح درس روزانه ضرب عدد مخلوط",
+        caption:"طرح درس روزانه ضرب عدد مخلوط - پایه پنجم",
+        creator:"سلمان نوری",
+        upoledDate:"1403/09/29",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/nouri/01/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B1%D8%B3%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%202.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/riazi.jpg",
+        slug: "/panjom/tarhedars/50026"
+    },     {
+        id:50027,
+        name:"طرح درس روزانه ضرب عدد مخلوط - شماره 2",
+        caption:"طرح درس روزانه ضرب عدد مخلوط - شماره 2 - پایه پنجم",
+        creator:"سلمان نوری",
+        upoledDate:"1403/09/29",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/nouri/01/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B1%D8%B3%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%D9%BE%D9%86%D8%AC%D9%85.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/riazi.jpg",
+        slug: "/panjom/tarhedars/50027"
+    },     {
+        id:50028,
+        name:"طرح درس روزانه تربیت بدنی پنجم",
+        caption:"طرح درس روزانه تربیت بدنی - پایه پنجم",
+        creator:"سلمان نوری",
+        upoledDate:"1403/09/29",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/nouri/01/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B1%D8%B3%20%D8%AA%D8%B1%D8%A8%DB%8C%D8%AA%20%D8%A8%D8%AF%D9%86%DB%8C.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/riazi.jpg",
+        slug: "/panjom/tarhedars/50028"
+    }, 
+    
         
 
 ]

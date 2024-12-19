@@ -272,6 +272,19 @@ const data = [
     gradeInP:"پایه پنجم",
     image:"/images/components/modules/books/panjom/riazi.jpg",
     slug: "/panjom/soalat/50030"
+} ,    {
+    id:50031,
+    name:"نمونه سوال ریاضی، فصل 2",
+    caption:"نمونه سوال ریاضی، فصل 2 - پایه پنجم" ,
+    creator:"شایان حاجتی",
+    upoledDate:"1403/09/29",
+    fileType:"PDF",
+    src:"https://coding-lbf.storage.iran.liara.space/panjom/hajati/01/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%D8%8C%20%D9%81%D8%B5%D9%84%202.pdf",
+    book:"riazi",
+    boolInP:"ریاضی",
+    gradeInP:"پایه پنجم",
+    image:"/images/components/modules/books/panjom/riazi.jpg",
+    slug: "/panjom/soalat/50031"
 }
     
     
