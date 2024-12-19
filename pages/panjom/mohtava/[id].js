@@ -58,6 +58,7 @@ const Page = () => {
                                             <p>نوع فایل:</p>
                                             {currentFileData.fileType == "PDF" && <i class="pb-2 bi bi-filetype-pdf text-white fs-5"></i>}
                                             {currentFileData.fileType == "WORD" && <i class="pb-2 bi bi-file-earmark-word-fill text-white fs-5"></i>}
+                                            {currentFileData.fileType == "PPTX" && <i class="pb-2 bi bi-file-earmark-ppt-fill text-white fs-5"></i>}
                                             {currentFileData.fileType == "JPG" && <i class="pb-2 bi bi-card-image text-white fs-5"></i>}
                                             {currentFileData.fileType == "video" && <i class="pb-2 bi bi-camera-reels-fill text-white fs-5"></i>}
                                             </div>

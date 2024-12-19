@@ -169,9 +169,9 @@ const Soalat = () => {
                   onChange={handleCreatorChange}
                 >
                   <option value="all">همه طراحان ({data.length})</option>
-                  <option value="محمد لبافی">محمد لبافی ({countByCreator["محمد لبافی"] || 0})</option>
-                  <option value="خانم ندا باقریان">خانم ندا باقریان ({countByCreator["خانم ندا باقریان"] || 0})</option>
                   <option value="سلمان نوری">سلمان نوری ({countByCreator["سلمان نوری"] || 0})</option>
+                  <option value="خانم ندا باقریان">خانم ندا باقریان ({countByCreator["خانم ندا باقریان"] || 0})</option>
+                  <option value="محمد لبافی">محمد لبافی ({countByCreator["محمد لبافی"] || 0})</option>
                   {/* <option value="سپهر ابراهیم پور">سپهر ابراهیم پور ({countByCreator["سپهر ابراهیم پور"] || 0})</option> */}
                 </select>
               </div>

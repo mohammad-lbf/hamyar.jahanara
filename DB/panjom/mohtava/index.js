@@ -131,17 +131,45 @@ const data = [
         slug: "/panjom/mohtava/50040"
     } , {
         id:50041,
-        name:"درس فضل خدا - فارسی پنجم",
+        name:"پاورپوینت درس فضل خدا - فارسی پنجم",
         caption:"درس فضل خدا - فارسی پنجم — پنجم دبستان",
         creator:"سلمان نوری",
         upoledDate:"1403/09/29",
-        fileType:"video",
+        fileType:"PPTX",
         src:"https://coding-lbf.storage.iran.liara.space/sheshom/nouri/01/%D8%AF%D8%B1%D8%B3%20%D9%81%D8%B6%D9%84%20%D8%AE%D8%AF%D8%A7%20-%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D9%BE%D9%86%D8%AC%D9%85.pptx",
         book:"riazi",
         boolInP:"ریاضی",
         gradeInP:"پایه پنجم",
         image:"/images/components/modules/books/panjom/riazi.jpg",
         slug: "/panjom/mohtava/50041"
+    } ,
+    {
+        id:50042,
+        name:"ویدئوی آموزشی نسبت های مساوی",
+        caption:"ویدئوی آموزشی نسبت های مساوی — پنجم دبستان",
+        creator:"سپهر ابراهیم پور",
+        upoledDate:"1403/09/29",
+        fileType:"video",
+        src:"https://coding-lbf.storage.iran.liara.space/panjom/ebrahimpour/01/%D9%88%DB%8C%D8%AF%D8%A6%D9%88%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C%20%D9%86%D8%B3%D8%A8%D8%AA%20%D9%87%D8%A7%DB%8C%20%D9%85%D8%B3%D8%A7%D9%88%DB%8C.mp4",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/riazi.jpg",
+        slug: "/panjom/mohtava/50042"
+    } ,
+    {
+        id:50043,
+        name:"ویدئوی آموزشی نسبت های مساوی - شکل",
+        caption:"ویدئوی آموزشی نسبت های مساوی - شکل — پنجم دبستان",
+        creator:"سپهر ابراهیم پور",
+        upoledDate:"1403/09/29",
+        fileType:"video",
+        src:"https://coding-lbf.storage.iran.liara.space/panjom/ebrahimpour/01/%D9%88%DB%8C%D8%AF%D8%A6%D9%88%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C%20%D9%86%D8%B3%D8%A8%D8%AA%20%D9%87%D8%A7%DB%8C%20%D9%85%D8%B3%D8%A7%D9%88%DB%8C%20-%20%D8%B4%DA%A9%D9%84.mp4",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/riazi.jpg",
+        slug: "/panjom/mohtava/50043"
     } ,
     
 
