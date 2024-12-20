@@ -22,17 +22,17 @@ const Teachers = () => {
 
             </div>
             <div className="row flex-lg-row justify-content-center">
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"سرکار خانم ابراهیمی"} post={"معاونت آموزشی"} md={"6"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/no-image-w.jpeg"} teacher={"سرکار خانم ابراهیمی"} post={"معاونت آموزشی"} md={"6"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای رستمی"} post={"معاونت آموزشی"} md={"6"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای جوادی"} post={"معاونت پرورشی"} md={"6"} lg={"3"} />
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"سرکار خانم خطیبی"} post={"معاونت اجرایی"} md={"6"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/no-image-w.jpeg"} teacher={"سرکار خانم خطیبی"} post={"معاونت اجرایی"} md={"6"} lg={"3"} />
             </div>
             <div className="row flex-lg-row justify-content-center">
             <div className="col-12 px-lg-0 py-3 d-flex justify-content-center flex-column align-items-center">
                 <h4 style={{fontSize:"17px" , fontFamily:"KalamehWeb-Bold"}} className=" text-center text-lg-end px-0"> آموزگاران پایه سوم</h4>
                 <div style={{width:"170px"}} className="lbf-after-card-img mx-lg-0 mx-auto"></div>
                 </div>
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"سرکار خانم امراللهی"} post={"آموزگار"} md={"4"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/no-image-w.jpeg"} teacher={"سرکار خانم امراللهی"} post={"آموزگار"} md={"4"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/حدیث مرادی پور.jpg"} teacher={"سرکار خانم مرادی پور"} post={"آموزگار"} md={"4"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/زینب شاه علی.jpg"} teacher={"سرکار خانم شاه علی"} post={"آموزگار"} md={"4"} lg={"3"} />
             </div>
@@ -52,8 +52,8 @@ const Teachers = () => {
                 </div>
                 <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای ابراهیم پور"} post={"آموزگار"} md={"6"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای حاجتی"} post={"آموزگار"} md={"6"} lg={"3"} />
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"سرکار خانم باقریان"} post={"آموزگار"} md={"6"} lg={"3"} />
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"سرکار خانم سلطانی"} post={"آموزگار"} md={"6"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/no-image-w.jpeg"} teacher={"سرکار خانم باقریان"} post={"آموزگار"} md={"6"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/no-image-w.jpeg"} teacher={"سرکار خانم سلطانی"} post={"آموزگار"} md={"6"} lg={"3"} />
             </div>
             <div className="row flex-lg-row justify-content-center">
             <div className="col-12 px-lg-0 py-3 d-flex justify-content-center flex-column align-items-center">
