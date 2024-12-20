@@ -1,4 +1,5 @@
 import Skills from '@/components/modules/Skills';
+import Teachers from '@/components/modules/Teachers';
 import Image from 'next/image';
 import React from 'react';
 
@@ -25,6 +26,7 @@ const AboutSchool = () => {
                   className='mt-4 mb-2' >
                 یکی از ویژگی‌های برجسته دبستان شهید جهان‌آرا، بهره‌گیری از کادر آموزشی مجرب و دلسوز است که با استفاده از روش‌های نوین تدریس، به یادگیری عمیق‌تر و مؤثرتر دانش‌آموزان کمک می‌کنند. کلاس‌های مجهز، فضای دوستانه و برنامه‌های مکملی چون فعالیت‌های فرهنگی، هنری و ورزشی از جمله امکاناتی هستند که این مدرسه را به محیطی جذاب برای دانش‌آموزان تبدیل کرده‌اند. توجه به استعدادهای فردی هر دانش‌آموز و پرورش آن‌ها یکی از اولویت‌های این مدرسه است.
               </p>
+              <Teachers />
               <div className='text-center'>
               <Image className='rounded shadow' src={"/images/components/modules/IMG_۲۰۲۴۱۱۲۲_۱۱۵۹۱۹-min.jpg"} style={{width:"200px" , height:"200px"}} width={720} height={526} />
               </div>
