@@ -51,7 +51,7 @@ const Teachers = () => {
                 <div style={{width:"170px"}} className="lbf-after-card-img mx-lg-0 mx-auto"></div>
                 </div>
                 <Teacher image={"/images/components/modules/teachers/ابراهیم پور.jpg"} teacher={"جناب آقای ابراهیم پور"} post={"آموزگار"} md={"6"} lg={"3"} />
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای حاجتی"} post={"آموزگار"} md={"6"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/حاجتی.jpeg"} teacher={"جناب آقای حاجتی"} post={"آموزگار"} md={"6"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/no-image-w.jpeg"} teacher={"سرکار خانم باقریان"} post={"آموزگار"} md={"6"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/no-image-w.jpeg"} teacher={"سرکار خانم سلطانی"} post={"آموزگار"} md={"6"} lg={"3"} />
             </div>
