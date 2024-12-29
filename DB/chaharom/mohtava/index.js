@@ -278,6 +278,77 @@ const data = [
     gradeInP:"پایه چهارم",
     image:"/images/components/modules/books/chaharom/riazi.jpg",
     slug: "/chaharom/mohtava/40050"
+    } ,
+    {
+    id:40051,
+    name:"آموزش تقسیم بر عدد یک رقمی",
+    caption:"آموزش تقسیم بر عدد یک رقمی - پایه چهارم",
+    creator:"سید حسین قریشیان",
+    upoledDate:"1403/10/09",
+    fileType:"video",
+    src:"https://coding-lbf.storage.iran.liara.space/chaharom/ghoreyshian/02/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%AA%D9%82%D8%B3%DB%8C%D9%85%20%D8%A8%D8%B1%20%D8%B9%D8%AF%D8%AF%20%DB%8C%DA%A9%20%D8%B1%D9%82%D9%85%DB%8C.mp4",
+    book:"riazi",
+    boolInP:"ریاضی",
+    gradeInP:"پایه چهارم",
+    image:"/images/components/modules/books/chaharom/riazi.jpg",
+    slug: "/chaharom/mohtava/40051"
+    } 
+    ,
+    {
+    id:40052,
+    name:"تدریس تقسیم پایه چهارم - فصل سوم",
+    caption:"تدریس تقسیم پایه چهارم - فصل سوم - پایه چهارم",
+    creator:"سید حسین قریشیان",
+    upoledDate:"1403/10/09",
+    fileType:"video",
+    src:"https://coding-lbf.storage.iran.liara.space/chaharom/ghoreyshian/02/%D8%AA%D8%AF%D8%B1%DB%8C%D8%B3%20%D8%AA%D9%82%D8%B3%DB%8C%D9%85%20%D9%BE%D8%A7%DB%8C%D9%87%20%DA%86%D9%87%D8%A7%D8%B1%D9%85%20-%20%D9%81%D8%B5%D9%84%20%D8%B3%D9%88%D9%85.mp4",
+    book:"riazi",
+    boolInP:"ریاضی",
+    gradeInP:"پایه چهارم",
+    image:"/images/components/modules/books/chaharom/riazi.jpg",
+    slug: "/chaharom/mohtava/40052"
+    } ,
+    {
+    id:40053,
+    name:"بخش پذیری و آموزش ص۶۲",
+    caption:"بخش پذیری و آموزش ص۶۲ - پایه چهارم",
+    creator:"خانم مریم سپیده خو",
+    upoledDate:"1403/10/09",
+    fileType:"video",
+    src:"https://coding-lbf.storage.iran.liara.space/chaharom/sepidehkhoo/02/%D8%A8%D8%AE%D8%B4%20%D9%BE%D8%B0%DB%8C%D8%B1%DB%8C%20%D9%88%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%B5%DB%B6%DB%B2.mp4",
+    book:"riazi",
+    boolInP:"ریاضی",
+    gradeInP:"پایه چهارم",
+    image:"/images/components/modules/books/chaharom/riazi.jpg",
+    slug: "/chaharom/mohtava/40053"
+    } ,
+    {
+    id:40054,
+    name:"توضیحات صفحه ۶۱ ریاضی",
+    caption:"توضیحات صفحه ۶۱ ریاضی - پایه چهارم",
+    creator:"خانم مریم سپیده خو",
+    upoledDate:"1403/10/09",
+    fileType:"video",
+    src:"https://coding-lbf.storage.iran.liara.space/chaharom/sepidehkhoo/02/%D8%AA%D9%88%D8%B6%DB%8C%D8%AD%D8%A7%D8%AA%20%D8%B5%D9%81%D8%AD%D9%87%20%DB%B6%DB%B1%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C.mp4",
+    book:"riazi",
+    boolInP:"ریاضی",
+    gradeInP:"پایه چهارم",
+    image:"/images/components/modules/books/chaharom/riazi.jpg",
+    slug: "/chaharom/mohtava/40054"
+    } ,
+    {
+    id:40055,
+    name:"علوم درس ۶ قسمت دوم",
+    caption:"علوم درس ۶ قسمت دوم - پایه چهارم",
+    creator:"خانم مریم سپیده خو",
+    upoledDate:"1403/10/09",
+    fileType:"video",
+    src:"https://coding-lbf.storage.iran.liara.space/chaharom/sepidehkhoo/02/%D8%B9%D9%84%D9%88%D9%85%20%D8%AF%D8%B1%D8%B3%20%DB%B6%20%D9%82%D8%B3%D9%85%D8%AA%20%D8%AF%D9%88%D9%85.mp4",
+    book:"oloom",
+    boolInP:"علوم تجربی",
+    gradeInP:"پایه چهارم",
+    image:"/images/components/modules/books/chaharom/oloom.jpg",
+    slug: "/chaharom/mohtava/40055"
     } 
         
 ]

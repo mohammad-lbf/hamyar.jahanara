@@ -167,6 +167,34 @@ const data = [
         image:"/images/components/modules/books/sheshom/hedye.jpg",
         slug: "/sheshom/soalat/60022"
     } , 
+    {
+        id:60023,
+        name:"آزمون مطالعات اجتماعی - پایه ششم",
+        caption:"آزمون مطالعات اجتماعی - پایه ششم - پایه ششم",
+        creator:"امیر عدلی یکتا",
+        upoledDate:"1403/10/09",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/yekta/02/%D8%A2%D8%B2%D9%85%D9%88%D9%86%20%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D8%A7%D8%AA%20%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C%20-%20%D9%BE%D8%A7%DB%8C%D9%87%20%D8%B4%D8%B4%D9%85.pdf",
+        book:"motaleat",
+        boolInP:"مطالعات اجتماعی",
+        gradeInP:"پایه ششم",
+        image:"/images/components/modules/books/sheshom/motaleat.jpg",
+        slug: "/sheshom/soalat/60023"
+    } , 
+    {
+        id:60024,
+        name:"آزمون مطالعات اجتماعی - مبحث انرژی",
+        caption:"آزمون مطالعات اجتماعی - مبحث انرژی - پایه ششم",
+        creator:"امیر عدلی یکتا",
+        upoledDate:"1403/10/09",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/yekta/02/%D8%A2%D8%B2%D9%85%D9%88%D9%86%20%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D8%A7%D8%AA%20%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C%20-%20%D9%85%D8%A8%D8%AD%D8%AB%20%D8%A7%D9%86%D8%B1%DA%98%DB%8C.pdf",
+        book:"motaleat",
+        boolInP:"مطالعات اجتماعی",
+        gradeInP:"پایه ششم",
+        image:"/images/components/modules/books/sheshom/motaleat.jpg",
+        slug: "/sheshom/soalat/60024"
+    } , 
     
 
 ]

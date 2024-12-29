@@ -633,6 +633,34 @@ const data = [
         gradeInP: "پایه سوم",
         image: "/images/components/modules/books/sevom/farsi.jpg",
         slug: "/sevom/mohtava/40075"
+    } ,
+    {
+        id: 40076,
+        name: "درس هفتم علوم سوم ابتدایی فصل هفتم - آینه ها",
+        caption: "درس هفتم علوم سوم ابتدایی فصل هفتم - آینه ها - پایه سوم",
+        creator: "خانم زینب شاه علی",
+        upoledDate: "1403/10/09",
+        fileType: "video",
+        src: "https://coding-lbf.storage.iran.liara.space/sevom/shahali/02/%D8%AF%D8%B1%D8%B3%20%D9%87%D9%81%D8%AA%D9%85%20%D8%B9%D9%84%D9%88%D9%85%20%D8%B3%D9%88%D9%85%20%D8%A7%D8%A8%D8%AA%D8%AF%D8%A7%DB%8C%DB%8C%20%D9%81%D8%B5%D9%84%20%D9%87%D9%81%D8%AA%D9%85%20-%20%D8%A2%DB%8C%D9%86%D9%87%20%D9%87%D8%A7.mp4",
+        book: "oloom",
+        boolInP: "علوم تجربی",
+        gradeInP: "پایه سوم",
+        image: "/images/components/modules/books/sevom/oloom.jpg",
+        slug: "/sevom/mohtava/40076"
+    } ,
+    {
+        id: 40077,
+        name: "کرم شب تاب منبع نور طبیعی-درس هفتم علوم",
+        caption: "کرم شب تاب منبع نور طبیعی-درس هفتم علوم - پایه سوم",
+        creator: "خانم زینب شاه علی",
+        upoledDate: "1403/10/09",
+        fileType: "video",
+        src: "https://coding-lbf.storage.iran.liara.space/sevom/shahali/02/%DA%A9%D8%B1%D9%85%20%D8%B4%D8%A8%20%D8%AA%D8%A7%D8%A8%20%D9%85%D9%86%D8%A8%D8%B9%20%D9%86%D9%88%D8%B1%20%D8%B7%D8%A8%DB%8C%D8%B9%DB%8C-%D8%AF%D8%B1%D8%B3%20%D9%87%D9%81%D8%AA%D9%85%20%D8%B9%D9%84%D9%88%D9%85.mp4",
+        book: "oloom",
+        boolInP: "علوم تجربی",
+        gradeInP: "پایه سوم",
+        image: "/images/components/modules/books/sevom/oloom.jpg",
+        slug: "/sevom/mohtava/40077"
     } 
         
     

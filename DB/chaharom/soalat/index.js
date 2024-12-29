@@ -493,6 +493,36 @@ const data = [
                 image:"/images/components/modules/books/chaharom/motaleat.jpg",
                 slug: "/chaharom/soalat/40045"
              }
+             ,
+             {
+                id:40046,
+                name:"سوالات اجتماعی درس 9",
+                caption:"سوالات اجتماعی درس 9 - پایه چهارم",
+                creator:"خانم مریم سپیده خو",
+                upoledDate:"1403/10/09",
+                fileType:"PDF",
+                src:"https://coding-lbf.storage.iran.liara.space/chaharom/sepidehkhoo/02/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C%20%D8%AF%D8%B1%D8%B3%209.pdf",
+                book:"motaleat",
+                boolInP:"مطالعات اجتماعی",
+                gradeInP:"پایه چهارم",
+                image:"/images/components/modules/books/chaharom/motaleat.jpg",
+                slug: "/chaharom/soalat/40046"
+             }
+             ,
+             {
+                id:40047,
+                name:"املای حروف گمشده درس 7",
+                caption:"املای حروف گمشده درس 7 - پایه چهارم",
+                creator:"خانم مریم سپیده خو",
+                upoledDate:"1403/10/09",
+                fileType:"PDF",
+                src:"https://coding-lbf.storage.iran.liara.space/chaharom/sepidehkhoo/02/%D8%A7%D9%85%D9%84%D8%A7%DB%8C%20%D8%AD%D8%B1%D9%88%D9%81%20%DA%AF%D9%85%D8%B4%D8%AF%D9%87%20%D8%AF%D8%B1%D8%B3%207.pdf",
+                book:"farsi",
+                boolInP:"فارسی",
+                gradeInP:"پایه چهارم",
+                image:"/images/components/modules/books/chaharom/farsi.jpg",
+                slug: "/chaharom/soalat/40047"
+             }
 ]
 
 export default data
