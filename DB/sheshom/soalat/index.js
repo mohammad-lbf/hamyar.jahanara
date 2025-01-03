@@ -195,6 +195,47 @@ const data = [
         image:"/images/components/modules/books/sheshom/motaleat.jpg",
         slug: "/sheshom/soalat/60024"
     } , 
+    {
+        id:60025,
+        name:"ارزشیابی آذر ماه علوم تجربی",
+        caption:"ارزشیابی آذر ماه علوم تجربی - پایه ششم",
+        creator:"امیر عدلی یکتا",
+        upoledDate:"1403/10/14",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/yekta/03/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%A2%D8%B0%D8%B1%20%D9%85%D8%A7%D9%87%20%D8%B9%D9%84%D9%88%D9%85%20%D8%AA%D8%AC%D8%B1%D8%A8%DB%8C.pdf",
+        book:"oloom",
+        boolInP:"علوم تجربی",
+        gradeInP:"پایه ششم",
+        image:"/images/components/modules/books/sheshom/oloom.jpg",
+        slug: "/sheshom/soalat/60025"
+    } ,   {
+        id:60026,
+        name:"ریاضی کاربرگ همه فصول",
+        caption:"ریاضی کاربرگ همه فصول - پایه ششم",
+        creator:"امیر عدلی یکتا",
+        upoledDate:"1403/10/14",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/yekta/03/%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DA%AF%20%D9%87%D9%85%D9%87%20%D9%81%D8%B5%D9%88%D9%84.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه ششم",
+        image:"/images/components/modules/books/sheshom/riazi.jpg",
+        slug: "/sheshom/soalat/60026"
+    } ,   {
+        id:60027,
+        name:"کاربرگ فارسی ششم درس 12",
+        caption:"کاربرگ فارسی ششم درس 12 - پایه ششم",
+        creator:"امیر عدلی یکتا",
+        upoledDate:"1403/10/14",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/yekta/03/%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DA%AF%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D8%B4%D8%B4%D9%85%20%D8%AF%D8%B1%D8%B3%2012.pdf",
+        book:"farsi",
+        boolInP:"فارسی",
+        gradeInP:"پایه ششم",
+        image:"/images/components/modules/books/sheshom/farsi.jpg",
+        slug: "/sheshom/soalat/60027"
+    } , 
+    
     
 
 ]

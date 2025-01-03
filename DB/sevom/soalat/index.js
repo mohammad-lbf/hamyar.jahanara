@@ -491,6 +491,34 @@ const data = [
        gradeInP:"پایه سوم",
        image:"/images/components/modules/books/sevom/farsi.jpg",
        slug: "/sevom/soalat/40045"
+    }, 
+    {
+       id:40046,
+       name:"آزمون ریاضی فصل 1 تا 4",
+       caption:"آزمون ریاضی فصل 1 تا 4 - پایه سوم",
+       creator:"خانم فاطمه امراللهی",
+       upoledDate:"1403/10/14",
+       fileType:"PDF",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/03/%D8%A2%D8%B2%D9%85%D9%88%D9%86%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%D9%81%D8%B5%D9%84%201%20%D8%AA%D8%A7%204.pdf",
+       book:"farsi",
+       boolInP:"فارسی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/farsi.jpg",
+       slug: "/sevom/soalat/40046"
+    }, 
+    {
+       id:40047,
+       name:"آزمون فارسی درس 1 تا 9",
+       caption:"آزمون فارسی درس 1 تا 9 - پایه سوم",
+       creator:"خانم فاطمه امراللهی",
+       upoledDate:"1403/10/14",
+       fileType:"PDF",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/03/%D8%A2%D8%B2%D9%85%D9%88%D9%86%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D8%AF%D8%B1%D8%B3%201%20%D8%AA%D8%A7%209.pdf",
+       book:"farsi",
+       boolInP:"فارسی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/farsi.jpg",
+       slug: "/sevom/soalat/40047"
     }
    
    

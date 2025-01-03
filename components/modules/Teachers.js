@@ -23,7 +23,7 @@ const Teachers = () => {
             </div>
             <div className="row flex-lg-row justify-content-center">
                 <Teacher image={"/images/components/modules/teachers/ابراهیمی.jpg"} teacher={"سرکار خانم ابراهیمی"} post={"معاونت آموزشی"} md={"6"} lg={"3"} />
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای رستمی"} post={"معاونت آموزشی"} md={"6"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/رستمی.jpg"} teacher={"جناب آقای رستمی"} post={"معاونت آموزشی"} md={"6"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/جوادی.jpg"} teacher={"جناب آقای جوادی"} post={"معاونت پرورشی"} md={"6"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/no-image-w.jpeg"} teacher={"سرکار خانم خطیبی"} post={"معاونت اجرایی"} md={"6"} lg={"3"} />
             </div>
@@ -32,7 +32,7 @@ const Teachers = () => {
                 <h4 style={{fontSize:"17px" , fontFamily:"KalamehWeb-Bold"}} className=" text-center text-lg-end px-0"> آموزگاران پایه سوم</h4>
                 <div style={{width:"170px"}} className="lbf-after-card-img mx-lg-0 mx-auto"></div>
                 </div>
-                <Teacher image={"/images/components/modules/teachers/no-image-w.jpeg"} teacher={"سرکار خانم امراللهی"} post={"آموزگار"} md={"4"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/امراللهی.jpg"} teacher={"سرکار خانم امراللهی"} post={"آموزگار"} md={"4"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/حدیث مرادی پور.jpg"} teacher={"سرکار خانم مرادی پور"} post={"آموزگار"} md={"4"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/زینب شاه علی.jpg"} teacher={"سرکار خانم شاه علی"} post={"آموزگار"} md={"4"} lg={"3"} />
             </div>
@@ -60,7 +60,7 @@ const Teachers = () => {
                 <h4 style={{fontSize:"17px" , fontFamily:"KalamehWeb-Bold"}} className=" text-center text-lg-end px-0"> آموزگاران پایه ششم</h4>
                 <div style={{width:"170px"}} className="lbf-after-card-img mx-lg-0 mx-auto"></div>
                 </div>
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای نوری"} post={"آموزگار"} md={"4"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/نوری.jpg"} teacher={"جناب آقای نوری"} post={"آموزگار"} md={"4"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای نیک فکر"} post={"آموزگار"} md={"4"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای یکتا"} post={"آموزگار"} md={"4"} lg={"3"} />
             </div>
