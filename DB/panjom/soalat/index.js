@@ -286,6 +286,34 @@ const data = [
     image:"/images/components/modules/books/panjom/riazi.jpg",
     slug: "/panjom/soalat/50031"
 }
+,    {
+    id:50032,
+    name:"نمونه سوال درس 3 تا 5 هدیه های آسمان",
+    caption:"نمونه سوال درس 3 تا 5 هدیه های آسمان - پایه پنجم" ,
+    creator:"خانم ندا باقریان",
+    upoledDate:"1403/10/23",
+    fileType:"PDF",
+    src:"https://coding-lbf.storage.iran.liara.space/panjom/bagherian/04/%D9%87%D8%AF%DB%8C%D9%87%20%DB%B3%D8%AA%D8%A7%20%DB%B5.pdf",
+    book:"hedye",
+    boolInP:"هدیه های آسمان",
+    gradeInP:"پایه پنجم",
+    image:"/images/components/modules/books/panjom/hedye.jpg",
+    slug: "/panjom/soalat/50032"
+}
+,    {
+    id:50033,
+    name:"نمونه سوال درس 3 تا 5 علوم تجربی",
+    caption:"نمونه سوال درس 3 تا 5 علوم تجربی - پایه پنجم" ,
+    creator:"خانم ندا باقریان",
+    upoledDate:"1403/10/23",
+    fileType:"PDF",
+    src:"https://coding-lbf.storage.iran.liara.space/panjom/bagherian/04/%D8%B9%D9%84%D9%88%D9%85%20%DB%B3%20%D8%AA%D8%A7%20%DB%B5%20%D8%A8%D8%A7%D9%82%D8%B1%DB%8C%D8%A7%D9%86.pdf",
+    book:"hedye",
+    boolInP:"هدیه های آسمان",
+    gradeInP:"پایه پنجم",
+    image:"/images/components/modules/books/panjom/hedye.jpg",
+    slug: "/panjom/soalat/50033"
+}
     
     
 

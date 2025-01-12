@@ -763,6 +763,21 @@ const data = [
         image: "/images/components/modules/books/sevom/riazi.jpg",
         slug: "/sevom/mohtava/40084"
     } 
+    ,
+    {
+        id: 40085,
+        name: "فیلم آموزشی علوم درس هشتم",
+        caption: "فیلم آموزشی علوم درس هشتم - پایه سوم",
+        creator: "خانم زینب شاه علی",
+        upoledDate: "1403/10/23",
+        fileType: "video",
+        src: "https://coding-lbf.storage.iran.liara.space/sevom/shahali/04/%D9%81%DB%8C%D9%84%D9%85%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C%20%D8%B9%D9%84%D9%88%D9%85%20%D8%AF%D8%B1%D8%B3%20%D9%87%D8%B4%D8%AA%D9%85.mp4",
+        book: "oloom",
+        boolInP: "علوم تجربی",
+        gradeInP: "پایه سوم",
+        image: "/images/components/modules/books/sevom/oloom.jpg",
+        slug: "/sevom/mohtava/40085"
+    } 
         
     
 ]

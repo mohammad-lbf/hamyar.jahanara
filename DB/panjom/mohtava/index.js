@@ -171,6 +171,34 @@ const data = [
         image:"/images/components/modules/books/panjom/riazi.jpg",
         slug: "/panjom/mohtava/50043"
     } ,
+    {
+        id:50044,
+        name:"ویدیو آموزشی، ساده کردن کسر به روش آلبالویی",
+        caption:"ویدیو آموزشی، ساده کردن کسر به روش آلبالویی — پنجم دبستان",
+        creator:"خانم ندا باقریان",
+        upoledDate:"1403/10/23",
+        fileType:"video",
+        src:"https://coding-lbf.storage.iran.liara.space/panjom/bagherian/04/%D9%88%DB%8C%D8%AF%DB%8C%D9%88%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C%D8%8C%20%D8%B3%D8%A7%D8%AF%D9%87%20%DA%A9%D8%B1%D8%AF%D9%86%20%DA%A9%D8%B3%D8%B1%20%D8%A8%D9%87%20%D8%B1%D9%88%D8%B4%20%D8%A2%D9%84%D8%A8%D8%A7%D9%84%D9%88%DB%8C%DB%8C.mp4",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/riazi.jpg",
+        slug: "/panjom/mohtava/50044"
+    } ,
+    {
+        id:50045,
+        name:"ویدئو آموزشی درصد به روش قصه",
+        caption:"ویدئو آموزشی درصد به روش قصه — پنجم دبستان",
+        creator:"خانم ندا باقریان",
+        upoledDate:"1403/10/23",
+        fileType:"video",
+        src:"https://coding-lbf.storage.iran.liara.space/panjom/bagherian/04/%D9%88%DB%8C%D8%AF%D8%A6%D9%88%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C%20%D8%AF%D8%B1%D8%B5%D8%AF%20%D8%A8%D9%87%20%D8%B1%D9%88%D8%B4%20%D9%82%D8%B5%D9%87.mp4",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/riazi.jpg",
+        slug: "/panjom/mohtava/50045"
+    } ,
     
 
 ]

@@ -109,7 +109,20 @@ const data = [
         image:"/images/components/modules/books/panjom/riazi.jpg",
         slug: "/panjom/tarhedars/50028"
     }, 
-    
+    {
+        id:50029,
+        name:"طرح درس جمع و تفریق اعداد مرکب پایه پنجم",
+        caption:"طرح درس جمع و تفریق اعداد مرکب - پایه پنجم",
+        creator:"خانم ندا باقریان",
+        upoledDate:"1403/10/23",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/panjom/bagherian/04/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B1%D8%B3%20%D8%AC%D9%85%D8%B9%20%D9%88%20%D8%AA%D9%81%D8%B1%DB%8C%D9%82%20%D8%A7%D8%B9%D8%AF%D8%A7%D8%AF%20%D9%85%D8%B1%DA%A9%D8%A8%20%D9%BE%D8%A7%DB%8C%D9%87%20%D9%BE%D9%86%D8%AC%D9%85.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه پنجم",
+        image:"/images/components/modules/books/panjom/riazi.jpg",
+        slug: "/panjom/tarhedars/50029"
+    },
         
 
 ]

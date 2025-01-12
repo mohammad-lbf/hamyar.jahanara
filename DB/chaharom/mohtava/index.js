@@ -350,6 +350,21 @@ const data = [
     image:"/images/components/modules/books/chaharom/oloom.jpg",
     slug: "/chaharom/mohtava/40055"
     } 
+    ,
+    {
+    id:40056,
+    name:"آموزش تقسیم تکنیکی بر عدد یک رقمی",
+    caption:"آموزش تقسیم بر عدد یک رقمی - پایه چهارم",
+    creator:"سید حسین قریشیان",
+    upoledDate:"1403/10/23",
+    fileType:"video",
+    src:"https://coding-lbf.storage.iran.liara.space/chaharom/ghoreyshian/04/%D8%A2%D9%85%D9%88%D8%B2%D8%B4%20%D8%AA%D9%82%D8%B3%DB%8C%D9%85%20%D8%A8%D8%B1%20%D8%B9%D8%AF%D8%AF%20%D8%AF%D9%88%20%D8%B1%D9%82%D9%85%DB%8C.mp4",
+    book:"riazi",
+    boolInP:"ریاضی",
+    gradeInP:"پایه چهارم",
+    image:"/images/components/modules/books/chaharom/riazi.jpg",
+    slug: "/chaharom/mohtava/40056"
+    } 
         
 ]
 

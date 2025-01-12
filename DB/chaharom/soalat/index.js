@@ -523,6 +523,49 @@ const data = [
                 image:"/images/components/modules/books/chaharom/farsi.jpg",
                 slug: "/chaharom/soalat/40047"
              }
+             ,
+             {
+                id:40048,
+                name:"ارزشیابی فارسی نوبت اول",
+                caption:"ارزشیابی فارسی نوبت اول - پایه چهارم",
+                creator:"سید حسین قریشیان",
+                upoledDate:"1403/10/23",
+                fileType:"PDF",
+                src:"https://coding-lbf.storage.iran.liara.space/chaharom/ghoreyshian/04/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D9%86%D9%88%D8%A8%D8%AA%20%D8%A7%D9%88%D9%84.pdf",
+                book:"farsi",
+                boolInP:"فارسی",
+                gradeInP:"پایه چهارم",
+                image:"/images/components/modules/books/chaharom/farsi.jpg",
+                slug: "/chaharom/soalat/40048"
+             },
+             {
+                id:40049,
+                name:"ارزشیابی ترم اول مطالعات اجتماعی 1403",
+                caption:"ارزشیابی ترم اول مطالعات اجتماعی 1403 - پایه چهارم",
+                creator:"یونس علمداری",
+                upoledDate:"1403/10/23",
+                fileType:"PDF",
+                src:"https://coding-lbf.storage.iran.liara.space/chaharom/alamdari/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AA%D8%B1%D9%85%20%D8%A7%D9%88%D9%84%20%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D8%A7%D8%AA%201403.pdf",
+                book:"motaleat",
+                boolInP:"مطالعات اجتماعی",
+                gradeInP:"پایه چهارم",
+                image:"/images/components/modules/books/chaharom/motaleat.jpg",
+                slug: "/chaharom/soalat/40049"
+             },
+             {
+                id:40050,
+                name:"ارزشیابی دی ماه ریاضی",
+                caption:"ارزشیابی دی ماه ریاضی - پایه چهارم",
+                creator:"محمد لبافی",
+                upoledDate:"1403/10/23",
+                fileType:"PDF",
+                src:"https://coding-lbf.storage.iran.liara.space/chaharom/labbafi/04/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AF%DB%8C%20%D9%85%D8%A7%D9%87%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C.pdf",
+                book:"riazi",
+                boolInP:"ریاضی",
+                gradeInP:"پایه چهارم",
+                image:"/images/components/modules/books/chaharom/riazi.jpg",
+                slug: "/chaharom/soalat/40050"
+             }
 ]
 
 export default data

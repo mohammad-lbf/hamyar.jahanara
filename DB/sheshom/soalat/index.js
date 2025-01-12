@@ -235,6 +235,60 @@ const data = [
         image:"/images/components/modules/books/sheshom/farsi.jpg",
         slug: "/sheshom/soalat/60027"
     } , 
+    {
+        id:60028,
+        name:"ارزشیابی نوبت اول مطالعات اجتماعی",
+        caption:"ارزشیابی نوبت اول مطالعات اجتماعی - پایه ششم",
+        creator:"امیر عدلی یکتا",
+        upoledDate:"1403/10/23",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/yekta/04/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D9%86%D9%88%D8%A8%D8%AA%20%D8%A7%D9%88%D9%84%20%D9%85%D8%B7%D8%A7%D9%84%D8%B9%D8%A7%D8%AA%20%D8%A7%D8%AC%D8%AA%D9%85%D8%A7%D8%B9%DB%8C.pdf",
+        book:"motaleat",
+        boolInP:"مطالعات اجتماعی",
+        gradeInP:"پایه ششم",
+        image:"/images/components/modules/books/sheshom/motaleat.jpg",
+        slug: "/sheshom/soalat/60028"
+    } , 
+    {
+        id:60029,
+        name:"سوالات امتحان هماهنگ فارسی",
+        caption:"سوالات امتحان هماهنگ فارسی - پایه ششم",
+        creator:"امیر عدلی یکتا",
+        upoledDate:"1403/10/23",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/yekta/04/%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D9%87%D9%85%D8%A7%D9%87%D9%86%DA%AF%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.pdf",
+        book:"farsi",
+        boolInP:"فارسی",
+        gradeInP:"پایه ششم",
+        image:"/images/components/modules/books/sheshom/farsi.jpg",
+        slug: "/sheshom/soalat/60029"
+    } ,     {
+        id:60030,
+        name:"کاربرگ آموزشی علوم درس 8 طراحی کنیم و بسازیم",
+        caption:"کاربرگ آموزشی علوم درس 8 طراحی کنیم و بسازیم - پایه ششم",
+        creator:"امیر عدلی یکتا",
+        upoledDate:"1403/10/23",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/yekta/04/%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DA%AF%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C%20%D8%B9%D9%84%D9%88%D9%85%20%D8%AF%D8%B1%D8%B3%208%20%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C%20%DA%A9%D9%86%DB%8C%D9%85%20%D9%88%20%D8%A8%D8%B3%D8%A7%D8%B2%DB%8C%D9%85.pdf",
+        book:"oloom",
+        boolInP:"علوم تجربی",
+        gradeInP:"پایه ششم",
+        image:"/images/components/modules/books/sheshom/oloom.jpg",
+        slug: "/sheshom/soalat/60030"
+    } ,     {
+        id:60031,
+        name:"کاربرگ درس 12 فارسی",
+        caption:"کاربرگ درس 12 فارسی - پایه ششم",
+        creator:"امیر عدلی یکتا",
+        upoledDate:"1403/10/23",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/sheshom/yekta/04/%DA%A9%D8%A7%D8%B1%D8%A8%D8%B1%DA%AF%20%D8%AF%D8%B1%D8%B3%2012%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.pdf",
+        book:"farsi",
+        boolInP:"فارسی",
+        gradeInP:"پایه ششم",
+        image:"/images/components/modules/books/sheshom/farsi.jpg",
+        slug: "/sheshom/soalat/60031"
+    } , 
     
     
 
