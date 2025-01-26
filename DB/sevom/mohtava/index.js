@@ -778,6 +778,51 @@ const data = [
         image: "/images/components/modules/books/sevom/oloom.jpg",
         slug: "/sevom/mohtava/40085"
     } 
+    ,
+    {
+        id: 40086,
+        name: "ویدئوی آموزشی اثر نیرو بر جسم",
+        caption: "ویدئوی آموزشی اثر نیرو بر جسم - پایه سوم",
+        creator: "خانم زینب شاه علی",
+        upoledDate: "1403/11/07",
+        fileType: "video",
+        src: "https://coding-lbf.storage.iran.liara.space/sevom/shahali/05/%D9%88%DB%8C%D8%AF%D8%A6%D9%88%DB%8C%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C%20%D8%A7%D8%AB%D8%B1%20%D9%86%DB%8C%D8%B1%D9%88%20%D8%A8%D8%B1%20%D8%AC%D8%B3%D9%85.mp4",
+        book: "oloom",
+        boolInP: "علوم تجربی",
+        gradeInP: "پایه سوم",
+        image: "/images/components/modules/books/sevom/oloom.jpg",
+        slug: "/sevom/mohtava/40086"
+    }
+    ,
+    {
+        id: 40087,
+        name: "ویدئو آموزشی نیرو و حرکت",
+        caption: "ویدئو آموزشی نیرو و حرکت - پایه سوم",
+        creator: "خانم زینب شاه علی",
+        upoledDate: "1403/11/07",
+        fileType: "video",
+        src: "https://coding-lbf.storage.iran.liara.space/sevom/shahali/05/%D9%88%DB%8C%D8%AF%D8%A6%D9%88%20%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C%20%D9%86%DB%8C%D8%B1%D9%88%20%D9%88%20%D8%AD%D8%B1%DA%A9%D8%AA.mp4",
+        book: "oloom",
+        boolInP: "علوم تجربی",
+        gradeInP: "پایه سوم",
+        image: "/images/components/modules/books/sevom/oloom.jpg",
+        slug: "/sevom/mohtava/40087"
+    }
+    ,
+    {
+        id: 40088,
+        name: "نیرو همه جا-علوم سوم درس دهم",
+        caption: "نیرو همه جا-علوم درس دهم - پایه سوم",
+        creator: "خانم زینب شاه علی",
+        upoledDate: "1403/11/07",
+        fileType: "video",
+        src: "https://coding-lbf.storage.iran.liara.space/sevom/shahali/05/%D9%86%DB%8C%D8%B1%D9%88%20%D9%87%D9%85%D9%87%20%D8%AC%D8%A7-%D8%B9%D9%84%D9%88%D9%85%20%D8%B3%D9%88%D9%85%20%D8%AF%D8%B1%D8%B3%20%D8%AF%D9%87%D9%85.mp4",
+        book: "oloom",
+        boolInP: "علوم تجربی",
+        gradeInP: "پایه سوم",
+        image: "/images/components/modules/books/sevom/oloom.jpg",
+        slug: "/sevom/mohtava/40088"
+    }
         
     
 ]

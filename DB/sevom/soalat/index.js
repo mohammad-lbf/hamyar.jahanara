@@ -520,6 +520,81 @@ const data = [
        image:"/images/components/modules/books/sevom/farsi.jpg",
        slug: "/sevom/soalat/40047"
     }
+    , 
+    {
+       id:40048,
+       name:"آزمون درس ۹و۱۰ فارسی",
+       caption:"آزمون درس ۹و۱۰ فارسی - پایه سوم",
+       creator:"خانم حدیث مرادی پور",
+       upoledDate:"1403/11/07",
+       fileType:"PDF",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/moradi/05/%D8%A2%D8%B2%D9%85%D9%88%D9%86%20%D8%AF%D8%B1%D8%B3%20%DB%B9%D9%88%DB%B1%DB%B0%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C.pdf",
+       book:"farsi",
+       boolInP:"فارسی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/farsi.jpg",
+       slug: "/sevom/soalat/40048"
+    }
+    , 
+    {
+       id:40049,
+       name:"آزمون فصل چهارم ریاضی",
+       caption:"آزمون فصل چهارم ریاضی - پایه سوم",
+       creator:"خانم حدیث مرادی پور",
+       upoledDate:"1403/11/07",
+       fileType:"PDF",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/moradi/05/%D8%A2%D8%B2%D9%85%D9%88%D9%86%20%D9%81%D8%B5%D9%84%20%DA%86%D9%87%D8%A7%D8%B1%D9%85%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C.pdf",
+       book:"riazi",
+       boolInP:"ریاضی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/riazi.jpg",
+       slug: "/sevom/soalat/40049"
+    }
+    , 
+    {
+       id:40050,
+       name:"نمونه سوالات فصل دو ریاضی سوم",
+       caption:"نمونه سوالات فصل دو ریاضی سوم - پایه سوم",
+       creator:"خانم حدیث مرادی پور",
+       upoledDate:"1403/11/07",
+       fileType:"PDF",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/moradi/05/%D9%86%D9%85%D9%88%D9%86%D9%87%20%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D9%81%D8%B5%D9%84%20%D8%AF%D9%88%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%D8%B3%D9%88%D9%85.pdf",
+       book:"riazi",
+       boolInP:"ریاضی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/riazi.jpg",
+       slug: "/sevom/soalat/40050"
+    }
+    , 
+    {
+       id:40051,
+       name:"نمونه سوالات فصل سوم ریاضی سوم",
+       caption:"نمونه سوالات فصل سوم ریاضی سوم - پایه سوم",
+       creator:"خانم حدیث مرادی پور",
+       upoledDate:"1403/11/07",
+       fileType:"PDF",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/moradi/05/%D9%86%D9%85%D9%88%D9%86%D9%87%20%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D9%81%D8%B5%D9%84%20%D8%B3%D9%88%D9%85%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%D8%B3%D9%88%D9%85.pdf",
+       book:"riazi",
+       boolInP:"ریاضی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/riazi.jpg",
+       slug: "/sevom/soalat/40051"
+    }
+    , 
+    {
+       id:40052,
+       name:"نمونه سوالات فصل یک ریاضی سوم",
+       caption:"نمونه سوالات فصل یک ریاضی سوم - پایه سوم",
+       creator:"خانم حدیث مرادی پور",
+       upoledDate:"1403/11/07",
+       fileType:"PDF",
+       src:"https://coding-lbf.storage.iran.liara.space/sevom/moradi/05/%D9%86%D9%85%D9%88%D9%86%D9%87%20%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D9%81%D8%B5%D9%84%20%DB%8C%DA%A9%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%D8%B3%D9%88%D9%85.pdf",
+       book:"riazi",
+       boolInP:"ریاضی",
+       gradeInP:"پایه سوم",
+       image:"/images/components/modules/books/sevom/riazi.jpg",
+       slug: "/sevom/soalat/40052"
+    }
    
    
 ]

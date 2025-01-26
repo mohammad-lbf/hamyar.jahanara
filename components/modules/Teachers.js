@@ -25,7 +25,7 @@ const Teachers = () => {
                 <Teacher image={"/images/components/modules/teachers/ابراهیمی.jpg"} teacher={"سرکار خانم ابراهیمی"} post={"معاونت آموزشی"} md={"6"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/رستمی.jpg"} teacher={"جناب آقای رستمی"} post={"معاونت آموزشی"} md={"6"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/جوادی.jpg"} teacher={"جناب آقای جوادی"} post={"معاونت پرورشی"} md={"6"} lg={"3"} />
-                <Teacher image={"/images/components/modules/teachers/no-image-w.jpeg"} teacher={"سرکار خانم خطیبی"} post={"معاونت اجرایی"} md={"6"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/khatibi.jpg"} teacher={"سرکار خانم خطیبی"} post={"معاونت اجرایی"} md={"6"} lg={"3"} />
             </div>
             <div className="row flex-lg-row justify-content-center">
             <div className="col-12 px-lg-0 py-3 d-flex justify-content-center flex-column align-items-center">
@@ -61,15 +61,15 @@ const Teachers = () => {
                 <div style={{width:"170px"}} className="lbf-after-card-img mx-lg-0 mx-auto"></div>
                 </div>
                 <Teacher image={"/images/components/modules/teachers/نوری.jpg"} teacher={"جناب آقای نوری"} post={"آموزگار"} md={"4"} lg={"3"} />
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای نیک فکر"} post={"آموزگار"} md={"4"} lg={"3"} />
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای یکتا"} post={"آموزگار"} md={"4"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/nikfekr.jpg"} teacher={"جناب آقای نیک فکر"} post={"آموزگار"} md={"4"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/yekta.jpg"} teacher={"جناب آقای یکتا"} post={"آموزگار"} md={"4"} lg={"3"} />
             </div>
             <div className="row flex-lg-row justify-content-center">
             <div className="col-12 px-lg-0 py-3 d-flex justify-content-center flex-column align-items-center">
                 <h4 style={{fontSize:"17px" , fontFamily:"KalamehWeb-Bold"}} className=" text-center text-lg-end px-0"> عوامل  اجرایی مدرسه</h4>
                 <div style={{width:"170px"}} className="lbf-after-card-img mx-lg-0 mx-auto"></div>
                 </div>
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای عاطفی"} post={"کادر اجرایی"} md={"4"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/atefi.jpg"} teacher={"جناب آقای عاطفی"} post={"کادر اجرایی"} md={"4"} lg={"3"} />
                 <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای شمس"} post={"کادر اجرایی"} md={"4"} lg={"3"} />
             </div>
         </div>

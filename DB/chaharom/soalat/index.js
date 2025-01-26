@@ -566,6 +566,51 @@ const data = [
                 image:"/images/components/modules/books/chaharom/riazi.jpg",
                 slug: "/chaharom/soalat/40050"
              }
+             ,
+             {
+                id:40051,
+                name:"ارزشیابی دی ماه املا",
+                caption:"ارزشیابی دی ماه املا - پایه چهارم",
+                creator:"محمد لبافی",
+                upoledDate:"1403/11/07",
+                fileType:"PDF",
+                src:"https://coding-lbf.storage.iran.liara.space/chaharom/alamdari/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AF%DB%8C%20%D9%85%D8%A7%D9%87%20%D8%A7%D9%85%D9%84%D8%A7.pdf",
+                book:"farsi",
+                boolInP:"املای فارسی",
+                gradeInP:"پایه چهارم",
+                image:"/images/components/modules/books/chaharom/farsi.jpg",
+                slug: "/chaharom/soalat/40051"
+             }
+             ,
+             {
+                id:40052,
+                name:"ارزشیابی دی ماه علوم تجربی",
+                caption:"ارزشیابی دی ماه علوم تجربی - پایه چهارم",
+                creator:"سید حسین قریشیان",
+                upoledDate:"1403/11/07",
+                fileType:"PDF",
+                src:"https://coding-lbf.storage.iran.liara.space/chaharom/alamdari/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AF%DB%8C%20%D9%85%D8%A7%D9%87%20%D8%B9%D9%84%D9%88%D9%85%20%D8%AA%D8%AC%D8%B1%D8%A8%DB%8C.pdf",
+                book:"oloom",
+                boolInP:"علوم تجربی",
+                gradeInP:"پایه چهارم",
+                image:"/images/components/modules/books/chaharom/oloom.jpg",
+                slug: "/chaharom/soalat/40052"
+             }
+             ,
+             {
+                id:40053,
+                name:"ارزشیابی دی ماه هدیه های آسمان",
+                caption:"ارزشیابی دی ماه هدیه های آسمان - پایه چهارم",
+                creator:"یونس علمداری",
+                upoledDate:"1403/11/07",
+                fileType:"PDF",
+                src:"https://coding-lbf.storage.iran.liara.space/chaharom/alamdari/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%AF%DB%8C%20%D9%85%D8%A7%D9%87%20%D9%87%D8%AF%DB%8C%D9%87%20%D9%87%D8%A7%DB%8C%20%D8%A2%D8%B3%D9%85%D8%A7%D9%86.pdf",
+                book:"hedye",
+                boolInP:"هدیه های آسمان",
+                gradeInP:"پایه چهارم",
+                image:"/images/components/modules/books/chaharom/hedye.jpg",
+                slug: "/chaharom/soalat/40053"
+             }
 ]
 
 export default data
