@@ -822,7 +822,67 @@ const data = [
         gradeInP: "پایه سوم",
         image: "/images/components/modules/books/sevom/oloom.jpg",
         slug: "/sevom/mohtava/40088"
-    }
+    },
+    {
+        "id": 28142,
+        "name": "ایجاد انگیزه برای تدریس درس دهم علوم - شماره 1",
+        "caption": "ایجاد انگیزه برای تدریس درس دهم علوم - شماره 1 - پایه سوم",
+        "creator": "خانم زینب شاه علی",
+        "upoledDate": "1403/11/24",
+        "fileType": "video",
+        "src": "https://coding-lbf.storage.iran.liara.space/sevom/shahali/06/%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF%20%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AA%D8%AF%D8%B1%DB%8C%D8%B3%20%D8%AF%D8%B1%D8%B3%20%D8%AF%D9%87%D9%85%20%D8%B9%D9%84%D9%88%D9%85%20-%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%201.mp4",
+        "book": "oloom",
+        "boolInP": "علوم تجربی",
+        "gradeInP": "پایه سوم",
+        "category": "mohtava",
+        "image": "/images/components/modules/books/sevom/oloom.jpg",
+        "slug": "/sevom/mohtava/28142"
+      },
+      {
+        "id": 93833,
+        "name": "ایجاد انگیزه برای تدریس درس دهم علوم - شماره 2",
+        "caption": "ایجاد انگیزه برای تدریس درس دهم علوم - شماره 2 - پایه سوم",
+        "creator": "خانم زینب شاه علی",
+        "upoledDate": "1403/11/24",
+        "fileType": "video",
+        "src": "https://coding-lbf.storage.iran.liara.space/sevom/shahali/06/%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF%20%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AA%D8%AF%D8%B1%DB%8C%D8%B3%20%D8%AF%D8%B1%D8%B3%20%D8%AF%D9%87%D9%85%20%D8%B9%D9%84%D9%88%D9%85%20-%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%202.mp4",
+        "book": "oloom",
+        "boolInP": "علوم تجربی",
+        "gradeInP": "پایه سوم",
+        "category": "mohtava",
+        "image": "/images/components/modules/books/sevom/oloom.jpg",
+        "slug": "/sevom/mohtava/93833"
+      },
+      {
+        "id": 83507,
+        "name": "ایجاد انگیزه برای تدریس درس دهم علوم - شماره 3",
+        "caption": "ایجاد انگیزه برای تدریس درس دهم علوم - شماره 3 - پایه سوم",
+        "creator": "خانم زینب شاه علی",
+        "upoledDate": "1403/11/24",
+        "fileType": "video",
+        "src": "https://coding-lbf.storage.iran.liara.space/sevom/shahali/06/%D8%A7%DB%8C%D8%AC%D8%A7%D8%AF%20%D8%A7%D9%86%DA%AF%DB%8C%D8%B2%D9%87%20%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%AA%D8%AF%D8%B1%DB%8C%D8%B3%20%D8%AF%D8%B1%D8%B3%20%D8%AF%D9%87%D9%85%20%D8%B9%D9%84%D9%88%D9%85%20-%20%D8%B4%D9%85%D8%A7%D8%B1%D9%87%203.mp4",
+        "book": "oloom",
+        "boolInP": "علوم تجربی",
+        "gradeInP": "پایه سوم",
+        "category": "mohtava",
+        "image": "/images/components/modules/books/sevom/oloom.jpg",
+        "slug": "/sevom/mohtava/83507"
+      },
+      {
+        "id": 30158,
+        "name": "نیرو همه جا-علوم سوم درس دهم",
+        "caption": "نیرو همه جا-علوم سوم درس دهم - پایه سوم",
+        "creator": "خانم زینب شاه علی",
+        "upoledDate": "1403/11/24",
+        "fileType": "video",
+        "src": "https://coding-lbf.storage.iran.liara.space/sevom/shahali/06/%D9%86%DB%8C%D8%B1%D9%88%20%D9%87%D9%85%D9%87%20%D8%AC%D8%A7-%D8%B9%D9%84%D9%88%D9%85%20%D8%B3%D9%88%D9%85%20%D8%AF%D8%B1%D8%B3%20%D8%AF%D9%87%D9%85.mp4",
+        "book": "oloom",
+        "boolInP": "علوم تجربی",
+        "gradeInP": "پایه سوم",
+        "category": "mohtava",
+        "image": "/images/components/modules/books/sevom/oloom.jpg",
+        "slug": "/sevom/mohtava/30158"
+      }
         
     
 ]
