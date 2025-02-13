@@ -95,12 +95,12 @@ export default function DeveloperPage() {
       تولیدکننده کد JSON
     </Link>
   </button>
-  <button style={{width:"250px"}} className="btn btn-main-2 mt-3 mb-2">
+  <button style={{width:"250px"}} className="btn-main-2 mt-3 mb-2">
     🔗 <a className="text-white" style={{fontSize: "12px", fontFamily: "KalamehWeb-Bold" }} href="https://github.com/mohammad-lbf/hamyar.jahanara.git" target="_blank" rel="noopener noreferrer">
       مشاهده ریپازیتوری در GitHub
     </a>
   </button>
-  <button style={{width:"250px"}} className="btn btn-main-2 mt-3">
+  <button style={{width:"250px"}} className="btn-main-2 mt-3">
     📑 <a className="text-white" style={{fontSize: "12px", fontFamily: "KalamehWeb-Bold" }} href="https://github.com/mohammad-lbf" target="_blank">
       مشاهده صفحه GitHub توسعه دهنده
     </a>
