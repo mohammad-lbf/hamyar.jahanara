@@ -12,7 +12,7 @@ const tarhedars = () => {
                             <p className='text-end my-2' style={{fontSize:"15px" , fontFamily:"KalamehWeb-Medium" , color:"#000" , lineHeight:"1.9rem"}}>در صورت بروز مشکل، جهت برقراری ارتباط، یا برای ارائه نمونه سوال، طرح درس، محتوا یا درسنامه آموزشی، از راه های زیر استفاده کنید</p>
                             <p className='text-end my-2' style={{fontSize:"15px" , fontFamily:"KalamehWeb-Medium" , color:"#000" , lineHeight:"1.9rem"}}>نکته: نمونه سوالات، طرح درس ها یا محتوای ارائه شده توسط شما با نام خودتان در سامانه ثبت خواهد شد.</p>
                             <p className='text-end my-2' style={{fontSize:"15px" , fontFamily:"KalamehWeb-Medium" , color:"#000" , lineHeight:"1.9rem"}}>آیدی شاد پشتیبانی: mohammad_lbf@</p>
-                            <p className='text-center my-2' style={{fontSize:"15px" , fontFamily:"KalamehWeb-Medium" , color:"#000" , lineHeight:"1.9rem"}}>شماره تماس  : 09912510134</p>
+                            <p className='text-center my-2' style={{fontSize:"15px" , fontFamily:"KalamehWeb-Medium" , color:"#000" , lineHeight:"1.9rem"}}>شماره تماس  : 09057488687</p>
                         </div>
                 </div>
         </div>

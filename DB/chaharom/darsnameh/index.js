@@ -115,6 +115,21 @@ const data = [
         "category": "darsnameh",
         "image": "/images/components/modules/books/chaharom/oloom.jpg",
         "slug": "/chaharom/darsnameh/88911"
+      },
+      {
+        "id": 68926,
+        "name": "گام به گام درس 8 آسمان در شب علوم تجربی",
+        "caption": "گام به گام درس 8 آسمان در شب علوم تجربی - پایه چهارم",
+        "creator": "سید حسین قریشیان",
+        "upoledDate": "1403/11/24",
+        "fileType": "PDF",
+        "src": "https://biamoz.com/dl/4/olum/d8/%DA%AF%D8%A7%D9%85-%D8%A8%D9%87-%DA%AF%D8%A7%D9%85-%D8%AF%D8%B1%D8%B3-8-%D8%A2%D8%B3%D9%85%D8%A7%D9%86-%D8%AF%D8%B1-%D8%B4%D8%A8-%D8%B9%D9%84%D9%88%D9%85-%D8%AA%D8%AC%D8%B1%D8%A8%DB%8C-(%D8%B3%D8%B1%DB%8C1)-%DA%86%D9%87%D8%A7%D8%B1%D9%85-%D8%AF%D8%A8%D8%B3%D8%AA%D8%A7%D9%86_Biamoz.com.pdf",
+        "book": "oloom",
+        "boolInP": "علوم تجربی",
+        "gradeInP": "پایه چهارم",
+        "category": "soalat",
+        "image": "/images/components/modules/books/chaharom/oloom.jpg",
+        "slug": "/chaharom/darsnameh/68926"
       }
     
 ]
