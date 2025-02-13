@@ -89,7 +89,8 @@ export default function FileForm() {
     "/images/components/modules/books/chaharom/hedye.jpg",
     "/images/components/modules/books/chaharom/oloom.jpg",
     "---",
-    "/images/components/modules/books/sevom/oloom.jpg"
+    "/images/components/modules/books/sevom/oloom.jpg",
+    "/images/components/modules/books/sevom/riazi.jpg"
   ];
 
   return (

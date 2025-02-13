@@ -580,7 +580,22 @@ const data = [
        gradeInP:"پایه سوم",
        image:"/images/components/modules/books/sevom/riazi.jpg",
        slug: "/sevom/soalat/40052"
-    }
+    },
+    {
+        "id": 49074,
+        "name": "آزمون ریاضی فصل 1 تا 4",
+        "caption": "آزمون ریاضی فصل 1 تا 4 - پایه سوم",
+        "creator": "خانم فاطمه امراللهی",
+        "upoledDate": "1403/11/24",
+        "fileType": "PDF",
+        "src": "https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/06/1_17032521808.pdf",
+        "book": "riazi",
+        "boolInP": "ریاضی",
+        "gradeInP": "پایه سوم",
+        "category": "soalat",
+        "image": "/images/components/modules/books/sevom/riazi.jpg",
+        "slug": "/sevom/soalat/49074"
+      }
    
    
 ]

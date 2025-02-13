@@ -233,7 +233,7 @@ npm run dev`}
 `}
           </pre>
           <div className="text-center mt-4">
-            <a href="/" className="btn btn-primary">بازگشت به صفحه اصلی</a>
+            <Link href="/" className="btn btn-primary">بازگشت به صفحه اصلی</Link>
           </div>
         </div>
       </div>
