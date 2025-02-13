@@ -96,7 +96,7 @@ export default function FileForm() {
     <div style={{paddingTop:"100px"}} className="container mt-4">
       <div className="card pt-4 shadow-sm mx-auto" style={{ maxWidth: "500px" }}>
         <div className="card-body pt-4">
-          <h2 className="card-title text-center mb-4">فرم ورود اطلاعات</h2>
+          <h2 className="card-title text-center mb-4">      تولیدکننده کد JSON</h2>
           <form onSubmit={handleSubmit}>
             {Object.keys(formData).map((key) => (
               <div key={key} className="mb-2">
