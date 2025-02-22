@@ -70,7 +70,7 @@ const Teachers = () => {
                 <div style={{width:"170px"}} className="lbf-after-card-img mx-lg-0 mx-auto"></div>
                 </div>
                 <Teacher image={"/images/components/modules/teachers/atefi.jpg"} teacher={"جناب آقای عاطفی"} post={"کادر اجرایی"} md={"4"} lg={"3"} />
-                <Teacher image={"/images/components/modules/teachers/no-image.jpg"} teacher={"جناب آقای شمس"} post={"کادر اجرایی"} md={"4"} lg={"3"} />
+                <Teacher image={"/images/components/modules/teachers/shams.jpg"} teacher={"جناب آقای شمس"} post={"کادر اجرایی"} md={"4"} lg={"3"} />
             </div>
         </div>
     );

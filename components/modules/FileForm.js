@@ -90,7 +90,13 @@ export default function FileForm() {
     "/images/components/modules/books/chaharom/oloom.jpg",
     "---",
     "/images/components/modules/books/sevom/oloom.jpg",
-    "/images/components/modules/books/sevom/riazi.jpg"
+    "/images/components/modules/books/sevom/riazi.jpg",
+    "---",
+    "/images/components/modules/books/sheshom/riazi.jpg",
+    "/images/components/modules/books/sheshom/farsi.jpg",
+    "/images/components/modules/books/sheshom/motaleat.jpg",
+    "/images/components/modules/books/sheshom/hedye.jpg",
+    "/images/components/modules/books/sheshom/oloom.jpg",
   ];
 
   return (
