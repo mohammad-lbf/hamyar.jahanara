@@ -199,6 +199,51 @@ const data = [
         image:"/images/components/modules/books/panjom/riazi.jpg",
         slug: "/panjom/mohtava/50045"
     } ,
+    {
+  "id": 66185,
+  "name": "امتحان جبرانی ریاضی نوبت اول ( از فصل یک تا پایان فصل سوم",
+  "caption": "امتحان جبرانی ریاضی نوبت اول ( از فصل یک تا پایان فصل سوم - پایه پنجم",
+  "creator": "سپهر ابراهیم پور",
+  "upoledDate": "1403/12/05",
+  "fileType": "PDF",
+  "src": "https://coding-lbf.storage.iran.liara.space/panjom/ebrahimpour/07/%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D8%AC%D8%A8%D8%B1%D8%A7%D9%86%DB%8C%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%D9%86%D9%88%D8%A8%D8%AA%20%D8%A7%D9%88%D9%84%20%28%20%D8%A7%D8%B2%20%D9%81%D8%B5%D9%84%20%DB%8C%DA%A9%20%D8%AA%D8%A7%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D9%81%D8%B5%D9%84%20%D8%B3%D9%88%D9%85.pdf",
+  "book": "riazi",
+  "boolInP": "ریاضی",
+  "gradeInP": "پایه پنجم",
+  "category": "soalat",
+  "image": "/images/components/modules/books/panjom/riazi.jpg",
+  "slug": "/panjom/soalat/66185"
+   },
+    {
+  "id": 89272,
+  "name": "امتحان ریاضی دی ماه (از فصل یک تا پایان مبحث تقارن مرکزی درس ۴)",
+  "caption": "امتحان ریاضی دی ماه (از فصل یک تا پایان مبحث تقارن مرکزی درس ۴) - پایه پنجم",
+  "creator": "سپهر ابراهیم پور",
+  "upoledDate": "1403/12/05",
+  "fileType": "PDF",
+  "src": "https://coding-lbf.storage.iran.liara.space/panjom/ebrahimpour/07/%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%D8%AF%DB%8C%20%D9%85%D8%A7%D9%87%20%28%D8%A7%D8%B2%20%D9%81%D8%B5%D9%84%20%DB%8C%DA%A9%20%D8%AA%D8%A7%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D9%85%D8%A8%D8%AD%D8%AB%20%D8%AA%D9%82%D8%A7%D8%B1%D9%86%20%D9%85%D8%B1%DA%A9%D8%B2%DB%8C%20%D8%AF%D8%B1%D8%B3%20%DB%B4%29.pdf",
+  "book": "riazi",
+  "boolInP": "ریاضی",
+  "gradeInP": "پایه پنجم",
+  "category": "soalat",
+  "image": "/images/components/modules/books/panjom/riazi.jpg",
+  "slug": "/panjom/soalat/89272"
+},
+    {
+  "id": 83410,
+  "name": "امتحان هدیه دی ماه ( از درس یک تا پایان درس ۷)",
+  "caption": "امتحان هدیه دی ماه ( از درس یک تا پایان درس ۷) - پایه پنجم",
+  "creator": "سپهر ابراهیم پور",
+  "upoledDate": "1403/12/05",
+  "fileType": "PDF",
+  "src": "https://coding-lbf.storage.iran.liara.space/panjom/ebrahimpour/07/%D8%A7%D9%85%D8%AA%D8%AD%D8%A7%D9%86%20%D9%87%D8%AF%DB%8C%D9%87%20%D8%AF%DB%8C%20%D9%85%D8%A7%D9%87%20%28%20%D8%A7%D8%B2%20%D8%AF%D8%B1%D8%B3%20%DB%8C%DA%A9%20%D8%AA%D8%A7%20%D9%BE%D8%A7%DB%8C%D8%A7%D9%86%20%D8%AF%D8%B1%D8%B3%20%DB%B7%29.pdf",
+  "book": "hedye",
+  "boolInP": "هدیه های آسمان",
+  "gradeInP": "پایه پنجم",
+  "category": "soalat",
+  "image": "/images/components/modules/books/hedye/riazi.jpg",
+  "slug": "/panjom/soalat/83410"
+},
     
 
 ]
