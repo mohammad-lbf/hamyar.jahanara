@@ -199,6 +199,81 @@ const data = [
         image:"/images/components/modules/books/panjom/riazi.jpg",
         slug: "/panjom/mohtava/50045"
     } ,
+    {
+  "id": 54655,
+  "name": "تدریس ضرب اعشاری",
+  "caption": "تدریس ضرب اعشاری - پایه پنجم",
+  "creator": "سپهر ابراهیم پور",
+  "upoledDate": "1403/12/05",
+  "fileType": "video",
+  "src": "https://coding-lbf.storage.iran.liara.space/panjom/ebrahimpour/07/%D8%AA%D8%AF%D8%B1%DB%8C%D8%B3%20%D8%B6%D8%B1%D8%A8%20%D8%A7%D8%B9%D8%B4%D8%A7%D8%B1%DB%8C.mp4",
+  "book": "riazi",
+  "boolInP": "ریاضی",
+  "gradeInP": "پایه پنجم",
+  "category": "mohtava",
+  "image": "/images/components/modules/books/panjom/riazi.jpg",
+  "slug": "/panjom/mohtava/54655"
+},
+    {
+  "id": 74807,
+  "name": "سوال ۴ تمرین صفحه ۹۷",
+  "caption": "سوال ۴ تمرین صفحه ۹۷ - پایه پنجم",
+  "creator": "سپهر ابراهیم پور",
+  "upoledDate": "1403/12/05",
+  "fileType": "video",
+  "src": "https://coding-lbf.storage.iran.liara.space/panjom/ebrahimpour/07/%D8%B3%D9%88%D8%A7%D9%84%20%DB%B4%20%D8%AA%D9%85%D8%B1%DB%8C%D9%86%20%D8%B5%D9%81%D8%AD%D9%87%20%DB%B9%DB%B7.mp4",
+  "book": "riazi",
+  "boolInP": "ریاضی",
+  "gradeInP": "پایه پنجم",
+  "category": "mohtava",
+  "image": "/images/components/modules/books/panjom/riazi.jpg",
+  "slug": "/panjom/mohtava/74807"
+},
+    {
+  "id": 22977,
+  "name": "سوال یک تمرین صفحه ۷۷ (بخش اول)",
+  "caption": "سوال یک تمرین صفحه ۷۷ (بخش اول) - پایه پنجم",
+  "creator": "سپهر ابراهیم پور",
+  "upoledDate": "1403/12/05",
+  "fileType": "video",
+  "src": "https://coding-lbf.storage.iran.liara.space/panjom/ebrahimpour/07/%D8%B3%D9%88%D8%A7%D9%84%20%DB%8C%DA%A9%20%D8%AA%D9%85%D8%B1%DB%8C%D9%86%20%D8%B5%D9%81%D8%AD%D9%87%20%DB%B7%DB%B7%20%28%D8%A8%D8%AE%D8%B4%20%D8%A7%D9%88%D9%84%29.mp4",
+  "book": "riazi",
+  "boolInP": "ریاضی",
+  "gradeInP": "پایه پنجم",
+  "category": "mohtava",
+  "image": "/images/components/modules/books/panjom/riazi.jpg",
+  "slug": "/panjom/mohtava/22977"
+},
+    {
+  "id": 22977,
+  "name": "سوال یک تمرین صفحه ۷۷ (بخش دوم)",
+  "caption": "سوال یک تمرین صفحه ۷۷ (بخش دوم) - پایه پنجم",
+  "creator": "سپهر ابراهیم پور",
+  "upoledDate": "1403/12/05",
+  "fileType": "video",
+  "src": "https://coding-lbf.storage.iran.liara.space/panjom/ebrahimpour/07/%D8%B3%D9%88%D8%A7%D9%84%20%DB%8C%DA%A9%20%D8%AA%D9%85%D8%B1%DB%8C%D9%86%20%D8%B5%D9%81%D8%AD%D9%87%20%DB%B7%DB%B7%20%28%D8%A8%D8%AE%D8%B4%20%D8%AF%D9%88%D9%85%29.mp4",
+  "book": "riazi",
+  "boolInP": "ریاضی",
+  "gradeInP": "پایه پنجم",
+  "category": "mohtava",
+  "image": "/images/components/modules/books/panjom/riazi.jpg",
+  "slug": "/panjom/mohtava/22977"
+},
+    {
+  "id": 23376,
+  "name": "سوال یک فعالیت صفحه ۹۸",
+  "caption": "سوال یک فعالیت صفحه ۹۸ - پایه پنجم",
+  "creator": "سپهر ابراهیم پور",
+  "upoledDate": "1403/12/05",
+  "fileType": "video",
+  "src": "https://coding-lbf.storage.iran.liara.space/panjom/ebrahimpour/07/%D8%B3%D9%88%D8%A7%D9%84%20%DB%8C%DA%A9%20%D9%81%D8%B9%D8%A7%D9%84%DB%8C%D8%AA%20%D8%B5%D9%81%D8%AD%D9%87%20%DB%B9%DB%B8.mp4",
+  "book": "riazi",
+  "boolInP": "ریاضی",
+  "gradeInP": "پایه پنجم",
+  "category": "mohtava",
+  "image": "/images/components/modules/books/panjom/riazi.jpg",
+  "slug": "/panjom/mohtava/23376"
+}
    
     
 
