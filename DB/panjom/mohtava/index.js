@@ -241,7 +241,7 @@ const data = [
   "boolInP": "هدیه های آسمان",
   "gradeInP": "پایه پنجم",
   "category": "soalat",
-  "image": "/images/components/modules/books/hedye/riazi.jpg",
+  "image": "/images/components/modules/books/panjom/hedye.jpg",
   "slug": "/panjom/soalat/83410"
 },
     
