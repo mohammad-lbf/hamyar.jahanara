@@ -595,7 +595,8 @@ const data = [
         "category": "soalat",
         "image": "/images/components/modules/books/sevom/riazi.jpg",
         "slug": "/sevom/soalat/49074"
-      }
+      },
+
    
    
 ]
