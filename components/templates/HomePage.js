@@ -1,21 +1,27 @@
 import React from 'react';
-import BasesMenu from '../modules/BasesMenu';
-
 import FirstBanner from '../modules/HomePage/FirstBanner';
-import ToolsMenu from '../modules/ToolsMenu';
+import Properties from '../modules/HomePage/Properties';
+import CoursesSection from '../modules/CoursesSection';
+import CoursesCards from '../modules/courses/CoursesCards';
+import CustomSlider from '../modules/HomePage/CustomSlider';
+import InstagramBanner from '../modules/HomePage/InstagramBanner';
+
 
 const HomePage = () => {
     return (
-        <div className='page-padding-tops'>
+        <div className='cover-home-3 page-padding-tops'>
             <FirstBanner />
-
-            <div className='container'>
+            {/* <IntroSection /> */}
+            <div className='container-fluid'>
                 <div className='row justify-content-center'>
 
-                        <div className='mb-3 mt-4 pt-4'>
-                                <h3 style={{fontSize:"24px" , fontFamily:"KalamehWeb-Bold" , color:"#03004e"}} className='mb-4 mt-3 pt-2 text-center'>پایه های تحصیلی:</h3>
-                                <BasesMenu />
-                        </div>  
+                        <div className='mb-3 mt-3'>
+                            <Properties />
+                            <CoursesSection />
+                            <CoursesCards />
+                            <CustomSlider />
+                            <InstagramBanner />
+                    </div>
                 </div>
             </div>
         </div>

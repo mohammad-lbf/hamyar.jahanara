@@ -1,38 +1,37 @@
 import Image from 'next/image';
 import Link from 'next/link';
+import isUserNameInLocalStorage from '../../assets/functions/localStorageChecker';
 
-const Card = ({name , creator , caption, slug , image , fileType}) => {
+const Card = ({title , caption, slug , buttonText , coverPhoto}) => {
     return (
-            <div style={{width:"280px" , position:"relative" , height:"390px" , overflow:"hidden"}} className='lbf-card border-gray-800 bg-white mb-3'>
-            <div className='lbf-card-image-article text-center'>
+            <div style={{width:"350px" , overflow:"hidden"}} className='lbf-card border-gray-800 bg-gray-850 mb-3'>
+            <div className='lbf-card-image-article'>
                 <Image
-                style={{width:"80px" , height:"120px"}}
-                 className='rounded mt-3 border'
-                 width={230} height={320} 
-                 alt={name}
-                 src={image} />
+                 className='w-100 border'
+                 width={1080} height={170} 
+                 alt={title}
+                 src={'/images/public.png'} />
             </div>
             <div className='p-relative'>
+                <div className='lbf-card-author-image'>
+                    <Image
+                     style={{width:"60px" , height:"60px"}}
+                     alt='author-image'
+                     width={300} height={300}
+                     src={'/images/20220719_222926.jpg'} />
+                </div>
                 <div style={{width:"100px"}} className="lbf-after-card-img"></div>
-                <div className='lbf-card-desc pt-1'>
-                    <h2 style={{height:"50px" , fontFamily:"KalamehWeb-Bold" , fontSize:"17px" , color:"#090736"}} className="mb-3 text-center">{name}</h2>
-                    <div className='' style={{height:"60px"}}>
-                    <p className='text-center mb-0'>{caption}</p>
-                    </div>
-                    <div className="mb-1 d-flex justify-content-center">
+                <div className='lbf-card-desc'>
+                    <h2 style={{fontFamily:"KalamehWeb-Bold" , fontSize:"18px" , color:"#090736"}} className="mb-3 text-end">{title}</h2>
+                    <div className="mb-3 d-flex ">
                     <i className="bi bi-pen-fill ms-1 text-black"></i>
-                    <p style={{fontFamily:"KalamehWeb-Medium" , color:"#000"}}>طراح:{creator}</p>
+                    <p style={{fontFamily:"KalamehWeb-Medium" , color:"#000"}}>محمد لبافی</p>
                     </div>
-                    {/* <div className='d-flex justify-content-center mt-3'>
-                    
-                    {fileType == "PDF" && <i class="bi bi-filetype-pdf text-danger fs-5"></i>}
-                    {fileType == "WORD" && <i class="bi bi-file-earmark-word-fill text-danger fs-5"></i>}
-                    </div> */}
-                    {/* <div className="lh-lg text-end" style={{fontFamily:"KalamehWeb-Medium" , height:"80px" , fontSize:"12px" , color:"#000"}} dangerouslySetInnerHTML={{ __html: caption.replace(/\n/g, '<br />') }}>
-                    </div> */}
+                    <div className="lh-lg text-end" style={{fontFamily:"KalamehWeb-Medium" , height:"80px" , fontSize:"12px" , color:"#000"}} dangerouslySetInnerHTML={{ __html: caption.replace(/\n/g, '<br />') }}>
+                    </div>
                 </div>
             </div>
-            <Link className='btn-main-2 2 text-center d-inline-block text-white w-100' style={{position:"absolute" , bottom:"0" , borderRadius:"0" , fontFamily:"KalamehWeb-Bold"}} href={`${slug}`}>مشاهده و دریافت</Link>
+            <Link style={{borderRadius:"0" , fontFamily:"KalamehWeb-Bold" , opacity:title == "تعیین سطح عمومی" && "0.65" , pointerEvents:title == "تعیین سطح عمومی" && "none"}} className={`btn-main-2 text-center d-inline-block text-white w-100`} href={`${slug}`}>{buttonText}</Link>
         </div>
     );
 };

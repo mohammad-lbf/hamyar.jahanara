@@ -21,7 +21,7 @@ const Header = () => {
                             <nav className={`d-none d-xl-block`}>
                                 <ul className={`main-menu me-4 d-flex justify-content-start align-items-center`}>
                                     <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/" ? "active" : "text-dark"}`} href={"/"}>صفحه اصلی</Link></li>
-                                    <li className='has-children m-3'>
+                                    {/* <li className='has-children m-3'>
                                         <Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/bases" ? "active" : "text-dark"}`}  href={"/bases"}>
                                         پایه ها
                                         </Link>
@@ -47,8 +47,8 @@ const Header = () => {
                                                 </Link>
                                             </li>
                                         </ul>
-                                        </li>
-                                        <li className='has-children m-3'>
+                                        </li> */}
+                                        {/* <li className='has-children m-3'>
                                         <Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/tests" ? "active" : "text-dark"}`}  href={"/books"}>
                                         کتابهای درسی
                                         </Link>
@@ -74,12 +74,14 @@ const Header = () => {
                                                 </Link>
                                             </li>
                                         </ul>
-                                        </li>
-                                        <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/support" ? "active" : "text-dark"}`} href={"/support"}>پشتیبانی</Link></li>
+                                        </li> */}
+                                        <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/courses" ? "active" : "text-dark"}`} href={"/courses"}>دوره های آموزشی</Link></li>
+                                        <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/articles" ? "active" : "text-dark"}`} href={"/articles"}>مقالات</Link></li>
+                                        {/* <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/support" ? "active" : "text-dark"}`} href={"/support"}>پشتیبانی</Link></li> */}
                                         <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/about-developer" ? "active" : "text-dark"}`} href={"/about-developer"}>درباره توسعه دهنده</Link></li>
                                         <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/about-school" ? "active" : "text-dark"}`} href={"/about-school"}>درباره مدرسه</Link></li>
-                                        <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/about-school" ? "active" : "text-dark"}`} href={"/developer"}>مستندات</Link></li>
-                                        <li className='m-3'><a style={{fontFamily:"KalamehWeb-Bold" , border:"none"}} className={`p-0 border-0`} href={"https://worksave-jahan.netlify.app/"}><button style={{fontFamily:"KalamehWeb-Bold"}} class="button-85 border-0" role="button">برنامه پیشرفته ثبت کار</button></a></li>
+                                        {/* <li className='m-3'><Link style={{fontFamily:"KalamehWeb-Bold" , }} className={`p-0 ${pathname == "/about-school" ? "active" : "text-dark"}`} href={"/developer"}>مستندات</Link></li> */}
+                                        {/* <li className='m-3'><a style={{fontFamily:"KalamehWeb-Bold" , border:"none"}} className={`p-0 border-0`} href={"https://worksave-jahan.netlify.app/"}><button style={{fontFamily:"KalamehWeb-Bold"}} class="button-85 border-0" role="button">برنامه پیشرفته ثبت کار</button></a></li> */}
                                 </ul>
                             </nav>
                             <button style={{backgroundColor:"transparent"}} onClick={handleShow} className="border-0 burger-icon burger-icon-white"><span class="burger-icon-top"></span><span class="burger-icon-mid"></span><span class="burger-icon-bottom"></span></button>

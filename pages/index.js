@@ -11,13 +11,6 @@ import HomePage from "@/components/templates/HomePage";
 export default function Home() {
   const router = useRouter();
   
-  useEffect(() => {
-    const isAuthenticated = Cookies.get('auth');
-    if (isAuthenticated !== 'true') {
-      router.push('/login'); // هدایت به صفحه لاگین در صورت عدم احراز هویت
-    }
-  }, []);
-  
   return (
     <>
       <Head>
