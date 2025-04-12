@@ -1,0 +1,127 @@
+const data = [
+    {
+        id:40021,
+        name:"طرح درس سالانه تمامی دروس چهارم (به جز علوم)",
+        caption:"طرح درس سالانه تمامی دروس چهارم (به جز علوم) - طرح درس علوم در فایل دیگر آمده است",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/1",
+        fileType:"PDF",
+        src:"/Files/chaharom/tarhedars/طرح درس سالانه پایه چهارم.pdf",
+        book:"all",
+        boolInP:"طرح درس سالانه",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/riazi.jpg",
+        slug: "/chaharom/tarhedars/40021"
+    } , 
+    {
+        id:40022,
+        name:"طرح درس سالانه علوم چهارم",
+        caption:"طرح درس سالانه علوم - پایه چهارم دبستان",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/1",
+        fileType:"PDF",
+        src:"/Files/chaharom/tarhedars/طرح درس سالانه علوم.pdf",
+        book:"oloom",
+        boolInP:"علوم تجربی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/oloom.jpg",
+        slug: "/chaharom/tarhedars/40022"
+    } ,
+    {
+        id:40023,
+        name:"طرح درس روزانه علوم چهارم درس انرژی الکتریکی",
+        caption:"طرح درس علوم چهارم ابتدایی درس انرژی الکتریکی - طرح درس روزانه",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/19",
+        fileType:"WORD",
+        src:"/Files/chaharom/tarhedars/طرح درس علوم چهارم ابتدایی درس انرژی الکتریکی.doc",
+        book:"oloom",
+        boolInP:"علوم تجربی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/oloom.jpg",
+        slug: "/chaharom/tarhedars/40023"
+    } ,    {
+        id:40024,
+        name:"طرح درس روزانه ریاضی چهارم درس ضرب و تقسیم فصل سوم",
+        caption:"طرح درس ریاضی چهارم ابتدایی درس ضرب و تقسیم فصل سوم - طرح درس روزانه",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/19",
+        fileType:"WORD",
+        src:"/Files/chaharom/tarhedars/طرح درس ریاضی چهارم ابتدایی درس ضرب و تقسیم فصل سوم.doc",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/riazi.jpg",
+        slug: "/chaharom/tarhedars/40024"
+    } ,    {
+        id:40025,
+        name:"طرح درس روزانه ریاضی چهارم درس ضرب عدد در کسر صفحه 40 و 41",
+        caption:"طرح درس ریاضی چهارم ابتدایی درس ضرب عدد در کسر صفحه 40 و 41 - طرح درس روزانه",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/19",
+        fileType:"WORD",
+        src:"/Files/chaharom/tarhedars/طرح درس ریاضی چهارم ابتدایی درس ضرب عدد در کسر صفحه 40 و 41.doc",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/riazi.jpg",
+        slug: "/chaharom/tarhedars/40025"
+    } ,    {
+        id:40026,
+        name:"طرح درس ریاضی چهارم ابتدایی درس ضرب عدد در کسر صفحه 38 و 39",
+        caption:"طرح درس ریاضی چهارم ابتدایی درس ضرب عدد در کسر صفحه 38 و 39 - طرح درس روزانه",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/19",
+        fileType:"WORD",
+        src:"/Files/chaharom/tarhedars/طرح درس ریاضی چهارم ابتدایی درس ضرب عدد در کسر صفحه 38 و 39.doc",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/riazi.jpg",
+        slug: "/chaharom/tarhedars/40026"
+    } ,    {
+        id:40027,
+        name:"طرح درس روزانه مطالعات اجتماعی چهارم ابتدایی درس جهت های جغرافیایی",
+        caption:"طرح درس روزانه مطالعات اجتماعی چهارم ابتدایی درس جهت های جغرافیایی - طرح درس روزانه",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/19",
+        fileType:"WORD",
+        src:"/Files/chaharom/tarhedars/طرح درس روزانه مطالعات اجتماعی چهارم ابتدایی درس جهت های جغرافیایی.doc",
+        book:"motaleat",
+        boolInP:"مطالعات اجتماعی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/motaleat.jpg",
+        slug: "/chaharom/tarhedars/40027"
+    } ,    {
+        id:40028,
+        name:"طرح درس روزانه فارسی چهارم ابتدایی درس آرش کمانگیر",
+        caption:"طرح درس روزانه فارسی چهارم ابتدایی درس آرش کمانگیر - طرح درس روزانه",
+        creator:"محمد لبافی",
+        upoledDate:"1403/08/19",
+        fileType:"WORD",
+        src:"/Files/chaharom/tarhedars/طرح درس روزانه فارسی چهارم ابتدایی درس آرش کمانگیر.doc",
+        book:"farsi",
+        boolInP:"فارسی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/farsi.jpg",
+        slug: "/chaharom/tarhedars/40028"
+    } ,  
+    {
+        id:40029,
+        name:"طرح درس روزانه آموزش قرآن - پایه چهارم",
+        caption:"طرح درس روزانه آموزش قرآن - پایه چهارم",
+        creator:"خانم ندا باقریان",
+        upoledDate:"1403/09/09",
+        fileType:"PDF",
+        src:"https://coding-lbf.storage.iran.liara.space/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B1%D8%B3%20%D8%B1%D9%88%D8%B2%D8%A7%D9%86%D9%87%20%D9%82%D8%B1%D8%A2%D9%86_%20%D9%BE%D8%A7%DB%8C%D9%87%20%DA%86%D9%87%D8%A7%D8%B1%D9%85%281%29.pdf",
+        book:"riazi",
+        boolInP:"ریاضی",
+        gradeInP:"پایه چهارم",
+        image:"/images/components/modules/books/chaharom/riazi.jpg",
+        slug: "/chaharom/tarhedars/40029"
+    } ,   
+
+    
+]
+
+export default data
