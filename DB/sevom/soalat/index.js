@@ -596,6 +596,66 @@ const data = [
         "image": "/images/components/modules/books/sevom/riazi.jpg",
         "slug": "/sevom/soalat/49074"
       },
+      {
+        "id": 41881,
+        "name": "آزمون فصل ۷ ریاضی",
+        "caption": "آزمون فصل ۷ ریاضی - پایه سوم",
+        "creator": "خانم فاطمه امراللهی",
+        "upoledDate": "1404/02/07",
+        "fileType": "PDF",
+        "src": "https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/9/%D8%A2%D8%B2%D9%85%D9%88%D9%86%20%D9%81%D8%B5%D9%84%20%DB%B7%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C.pdf",
+        "book": "riazi",
+        "boolInP": "ریاضی",
+        "gradeInP": "پایه سوم",
+        "category": "soalat",
+        "image": "/images/components/modules/books/sevom/riazi.jpg",
+        "slug": "/sevom/soalat/41881"
+      },
+      {
+        "id": 14937,
+        "name": "آزمون ریاضی فصل ۱ تا ۶",
+        "caption": "آزمون ریاضی فصل ۱ تا ۶ - پایه سوم",
+        "creator": "خانم فاطمه امراللهی",
+        "upoledDate": "1404/02/07",
+        "fileType": "PDF",
+        "src": "https://coding-lbf.storage.iran.liara.space/sevom/amrollahi/9/%D8%A2%D8%B2%D9%85%D9%88%D9%86%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%D9%81%D8%B5%D9%84%20%DB%B1%20%D8%AA%D8%A7%20%DB%B6.pdf",
+        "book": "riazi",
+        "boolInP": "ریاضی",
+        "gradeInP": "پایه سوم",
+        "category": "soalat",
+        "image": "/images/components/modules/books/sevom/riazi.jpg",
+        "slug": "/sevom/soalat/14937"
+      },
+      {
+        "id": 84089,
+        "name": "آزمون ریاضی فصل 6",
+        "caption": "آزمون ریاضی فصل 6 - پایه سوم",
+        "creator": "خانم حدیث مرادی پور",
+        "upoledDate": "1404/02/07",
+        "fileType": "PDF",
+        "src": "https://coding-lbf.storage.iran.liara.space/sevom/shahali/09/%D8%A2%D8%B2%D9%85%D9%88%D9%86%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%D9%81%D8%B5%D9%84%206.pdf",
+        "book": "riazi",
+        "boolInP": "ریاضی",
+        "gradeInP": "پایه سوم",
+        "category": "soalat",
+        "image": "/images/components/modules/books/sevom/riazi.jpg",
+        "slug": "/sevom/soalat/84089"
+      },
+      {
+        "id": 54462,
+        "name": "ارزشیابی فارسی دروس 14 و 15",
+        "caption": "ارزشیابی فارسی دروس 14 و 15 - پایه سوم",
+        "creator": "خانم حدیث مرادی پور",
+        "upoledDate": "1404/02/07",
+        "fileType": "PDF",
+        "src": "https://coding-lbf.storage.iran.liara.space/sevom/shahali/09/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D9%81%D8%A7%D8%B1%D8%B3%DB%8C%20%D8%AF%D8%B1%D9%88%D8%B3%2014%20%D9%88%2015.pdf",
+        "book": "farsi",
+        "boolInP": "فارسی",
+        "gradeInP": "پایه سوم",
+        "category": "soalat",
+        "image": "/images/components/modules/books/sevom/farsi.jpg",
+        "slug": "/sevom/soalat/54462"
+      }
 
    
    

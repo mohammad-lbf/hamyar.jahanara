@@ -123,6 +123,22 @@ const data = [
         image:"/images/components/modules/books/panjom/riazi.jpg",
         slug: "/panjom/tarhedars/50029"
     },
+    {
+        "id": 83141,
+        "name": "نمونه سوالات علوم تجربی پایه پنجم با انواع نگارش(4 فایل)",
+        "caption": "نمونه سوالات علوم تجربی پایه پنجم با انواع نگارش(4 فایل) - پایه پنجم",
+        "creator": "شایان حاجتی",
+        "upoledDate": "1404/02/07",
+        "fileType": "PDF",
+        "src": "https://coding-lbf.storage.iran.liara.space/panjom/hajati/09/%D9%86%D9%85%D9%88%D9%86%D9%87%20%D8%B3%D9%88%D8%A7%D9%84%D8%A7%D8%AA%20%D8%B9%D9%84%D9%88%D9%85%20%D8%AA%D8%AC%D8%B1%D8%A8%DB%8C%20%D9%BE%D8%A7%DB%8C%D9%87%20%D9%BE%D9%86%D8%AC%D9%85%20%D8%A8%D8%A7%20%D8%A7%D9%86%D9%88%D8%A7%D8%B9%20%D9%86%DA%AF%D8%A7%D8%B1%D8%B4%284%20%D9%81%D8%A7%DB%8C%D9%84%29.zip",
+        "book": "oloom",
+        "boolInP": "علوم تجربی",
+        "gradeInP": "پایه پنجم",
+        "category": "tarhedars",
+        "image": "/images/components/modules/books/panjom/oloom.jpg",
+        "slug": "/panjom/tarhedars/83141"
+      },
+      
         
 
 ]

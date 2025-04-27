@@ -91,6 +91,8 @@ export default function FileForm() {
     "---",
     "/images/components/modules/books/sevom/oloom.jpg",
     "/images/components/modules/books/sevom/riazi.jpg",
+    "/images/components/modules/books/sevom/farsi.jpg",
+    "/images/components/modules/books/sevom/motaleat.jpg",
     "---",
     "/images/components/modules/books/panjom/oloom.jpg",
     "/images/components/modules/books/panjom/motaleat.jpg",
