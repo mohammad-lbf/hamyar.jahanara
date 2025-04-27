@@ -120,6 +120,37 @@ const data = [
         image:"/images/components/modules/books/chaharom/riazi.jpg",
         slug: "/chaharom/tarhedars/40029"
     } ,   
+    {
+        "id": 15030,
+        "name": "طرح درس تدریس درس 4 علوم تجربی چهارم با استفاده از برد آردوینو - محمد لبافی",
+        "caption": "طرح درس تدریس درس 4 علوم تجربی چهارم با استفاده از برد آردوینو - محمد لبافی - پایه چهارم",
+        "creator": "محمد لبافی",
+        "upoledDate": "1404/02/07",
+        "fileType": "PDF",
+        "src": "https://coding-lbf.storage.iran.liara.space/chaharom/labbafi/09/%D8%B7%D8%B1%D8%AD%20%D8%AF%D8%B1%D8%B3%20%D8%AA%D8%AF%D8%B1%DB%8C%D8%B3%20%D8%AF%D8%B1%D8%B3%204%20%D8%B9%D9%84%D9%88%D9%85%20%D8%AA%D8%AC%D8%B1%D8%A8%DB%8C%20%DA%86%D9%87%D8%A7%D8%B1%D9%85%20%D8%A8%D8%A7%20%D8%A7%D8%B3%D8%AA%D9%81%D8%A7%D8%AF%D9%87%20%D8%A7%D8%B2%20%D8%A8%D8%B1%D8%AF%20%D8%A2%D8%B1%D8%AF%D9%88%DB%8C%D9%86%D9%88%20-%20%D9%85%D8%AD%D9%85%D8%AF%20%D9%84%D8%A8%D8%A7%D9%81%DB%8C.pdf",
+        "book": "oloom",
+        "boolInP": "علوم تجربی",
+        "gradeInP": "پایه چهارم",
+        "category": "tarhedars",
+        "image": "/images/components/modules/books/chaharom/oloom.jpg",
+        "slug": "/chaharom/tarhedars/15030"
+      },
+      {
+        "id": 26411,
+        "name": "گزارش طرح  بوم  کلاس - محمد لبافی",
+        "caption": "گزارش طرح  بوم  کلاس - محمد لبافی - پایه چهارم",
+        "creator": "محمد لبافی",
+        "upoledDate": "1404/02/07",
+        "fileType": "PDF",
+        "src": "https://coding-lbf.storage.iran.liara.space/chaharom/labbafi/09/%DA%AF%D8%B2%D8%A7%D8%B1%D8%B4%20%D8%B7%D8%B1%D8%AD%20%20%D8%A8%D9%88%D9%85%20%20%DA%A9%D9%84%D8%A7%D8%B3%204.1%20-%20%D9%85%D8%AD%D9%85%D8%AF%20%D9%84%D8%A8%D8%A7%D9%81%DB%8C.pdf",
+        "book": "",
+        "boolInP": "هنر",
+        "gradeInP": "پایه چهارم",
+        "category": "tarhedars",
+        "image": "/images/components/modules/books/chaharom/riazi.jpg",
+        "slug": "/chaharom/tarhedars/26411"
+      },
+      
 
     
 ]

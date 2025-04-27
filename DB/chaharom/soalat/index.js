@@ -1248,7 +1248,38 @@ const data = [
                 "category": "soalat",
                 "image": "/images/components/modules/books/chaharom/motaleat.jpg",
                 "slug": "/chaharom/soalat/18310"
-              }
+              },
+              {
+                "id": 64976,
+                "name": "ارزشیابی ریاضی نوبت دوم - سری 1",
+                "caption": "ارزشیابی ریاضی نوبت دوم - سری 1 - پایه چهارم",
+                "creator": "محمد لبافی",
+                "upoledDate": "1404/02/07",
+                "fileType": "PDF",
+                "src": "https://coding-lbf.storage.iran.liara.space/chaharom/labbafi/09/%D8%A7%D8%B1%D8%B2%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%D9%86%D9%88%D8%A8%D8%AA%20%D8%AF%D9%88%D9%85%20-%20%D8%B3%D8%B1%DB%8C%201.pdf",
+                "book": "riazi",
+                "boolInP": "ریاضی",
+                "gradeInP": "پایه چهارم",
+                "category": "soalat",
+                "image": "/images/components/modules/books/chaharom/riazi.jpg",
+                "slug": "/chaharom/soalat/64976"
+              },
+              {
+                "id": 10524,
+                "name": "ارشیابی ریاضی نوبت دوم - سری 2",
+                "caption": "ارشیابی ریاضی نوبت دوم - سری 2 - پایه چهارم",
+                "creator": "محمد لبافی",
+                "upoledDate": "1404/02/07",
+                "fileType": "PDF",
+                "src": "https://coding-lbf.storage.iran.liara.space/chaharom/labbafi/09/%D8%A7%D8%B1%D8%B4%DB%8C%D8%A7%D8%A8%DB%8C%20%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C%20%D9%86%D9%88%D8%A8%D8%AA%20%D8%AF%D9%88%D9%85%20-%20%D8%B3%D8%B1%DB%8C%202.pdf",
+                "book": "riazi",
+                "boolInP": "ریاضی",
+                "gradeInP": "پایه چهارم",
+                "category": "soalat",
+                "image": "/images/components/modules/books/chaharom/riazi.jpg",
+                "slug": "/chaharom/soalat/10524"
+              },
+              
 
 
 
